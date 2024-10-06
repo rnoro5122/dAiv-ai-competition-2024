@@ -1,0 +1,3348 @@
+id,label
+TEST_0000,Dessert
+TEST_0001,Dairy product
+TEST_0002,Egg
+TEST_0003,Meat
+TEST_0004,Soup
+TEST_0005,Soup
+TEST_0006,Rice
+TEST_0007,Seafood
+TEST_0008,Fried food
+TEST_0009,Vegetable-Fruit
+TEST_0010,Dessert
+TEST_0011,Meat
+TEST_0012,Soup
+TEST_0013,Seafood
+TEST_0014,Dessert
+TEST_0015,Soup
+TEST_0016,Noodles-Pasta
+TEST_0017,Vegetable-Fruit
+TEST_0018,Rice
+TEST_0019,Soup
+TEST_0020,Meat
+TEST_0021,Soup
+TEST_0022,Dessert
+TEST_0023,Dairy product
+TEST_0024,Fried food
+TEST_0025,Noodles-Pasta
+TEST_0026,Fried food
+TEST_0027,Dessert
+TEST_0028,Meat
+TEST_0029,Dessert
+TEST_0030,Soup
+TEST_0031,Fried food
+TEST_0032,Vegetable-Fruit
+TEST_0033,Egg
+TEST_0034,Noodles-Pasta
+TEST_0035,Seafood
+TEST_0036,Dessert
+TEST_0037,Bread
+TEST_0038,Fried food
+TEST_0039,Egg
+TEST_0040,Vegetable-Fruit
+TEST_0041,Noodles-Pasta
+TEST_0042,Soup
+TEST_0043,Bread
+TEST_0044,Meat
+TEST_0045,Dessert
+TEST_0046,Fried food
+TEST_0047,Bread
+TEST_0048,Soup
+TEST_0049,Noodles-Pasta
+TEST_0050,Dessert
+TEST_0051,Meat
+TEST_0052,Seafood
+TEST_0053,Dairy product
+TEST_0054,Dairy product
+TEST_0055,Bread
+TEST_0056,Soup
+TEST_0057,Bread
+TEST_0058,Seafood
+TEST_0059,Seafood
+TEST_0060,Bread
+TEST_0061,Egg
+TEST_0062,Egg
+TEST_0063,Soup
+TEST_0064,Bread
+TEST_0065,Soup
+TEST_0066,Fried food
+TEST_0067,Dessert
+TEST_0068,Noodles-Pasta
+TEST_0069,Dessert
+TEST_0070,Soup
+TEST_0071,Seafood
+TEST_0072,Dessert
+TEST_0073,Dessert
+TEST_0074,Egg
+TEST_0075,Fried food
+TEST_0076,Rice
+TEST_0077,Fried food
+TEST_0078,Rice
+TEST_0079,Bread
+TEST_0080,Seafood
+TEST_0081,Fried food
+TEST_0082,Rice
+TEST_0083,Meat
+TEST_0084,Seafood
+TEST_0085,Fried food
+TEST_0086,Meat
+TEST_0087,Bread
+TEST_0088,Soup
+TEST_0089,Dessert
+TEST_0090,Vegetable-Fruit
+TEST_0091,Rice
+TEST_0092,Seafood
+TEST_0093,Meat
+TEST_0094,Seafood
+TEST_0095,Soup
+TEST_0096,Vegetable-Fruit
+TEST_0097,Fried food
+TEST_0098,Dessert
+TEST_0099,Soup
+TEST_0100,Soup
+TEST_0101,Soup
+TEST_0102,Meat
+TEST_0103,Meat
+TEST_0104,Bread
+TEST_0105,Fried food
+TEST_0106,Meat
+TEST_0107,Egg
+TEST_0108,Egg
+TEST_0109,Soup
+TEST_0110,Seafood
+TEST_0111,Dessert
+TEST_0112,Meat
+TEST_0113,Dairy product
+TEST_0114,Dessert
+TEST_0115,Meat
+TEST_0116,Dessert
+TEST_0117,Bread
+TEST_0118,Seafood
+TEST_0119,Seafood
+TEST_0120,Bread
+TEST_0121,Meat
+TEST_0122,Egg
+TEST_0123,Vegetable-Fruit
+TEST_0124,Egg
+TEST_0125,Noodles-Pasta
+TEST_0126,Soup
+TEST_0127,Meat
+TEST_0128,Bread
+TEST_0129,Meat
+TEST_0130,Soup
+TEST_0131,Soup
+TEST_0132,Soup
+TEST_0133,Meat
+TEST_0134,Bread
+TEST_0135,Vegetable-Fruit
+TEST_0136,Bread
+TEST_0137,Bread
+TEST_0138,Seafood
+TEST_0139,Dessert
+TEST_0140,Vegetable-Fruit
+TEST_0141,Egg
+TEST_0142,Dairy product
+TEST_0143,Fried food
+TEST_0144,Meat
+TEST_0145,Soup
+TEST_0146,Seafood
+TEST_0147,Dessert
+TEST_0148,Bread
+TEST_0149,Vegetable-Fruit
+TEST_0150,Soup
+TEST_0151,Soup
+TEST_0152,Dessert
+TEST_0153,Bread
+TEST_0154,Fried food
+TEST_0155,Meat
+TEST_0156,Meat
+TEST_0157,Soup
+TEST_0158,Meat
+TEST_0159,Bread
+TEST_0160,Meat
+TEST_0161,Soup
+TEST_0162,Dairy product
+TEST_0163,Soup
+TEST_0164,Meat
+TEST_0165,Soup
+TEST_0166,Noodles-Pasta
+TEST_0167,Soup
+TEST_0168,Bread
+TEST_0169,Meat
+TEST_0170,Dairy product
+TEST_0171,Fried food
+TEST_0172,Noodles-Pasta
+TEST_0173,Egg
+TEST_0174,Rice
+TEST_0175,Fried food
+TEST_0176,Rice
+TEST_0177,Bread
+TEST_0178,Rice
+TEST_0179,Egg
+TEST_0180,Meat
+TEST_0181,Soup
+TEST_0182,Meat
+TEST_0183,Seafood
+TEST_0184,Egg
+TEST_0185,Soup
+TEST_0186,Meat
+TEST_0187,Vegetable-Fruit
+TEST_0188,Soup
+TEST_0189,Bread
+TEST_0190,Meat
+TEST_0191,Meat
+TEST_0192,Rice
+TEST_0193,Rice
+TEST_0194,Meat
+TEST_0195,Dessert
+TEST_0196,Egg
+TEST_0197,Dessert
+TEST_0198,Egg
+TEST_0199,Egg
+TEST_0200,Bread
+TEST_0201,Soup
+TEST_0202,Dairy product
+TEST_0203,Bread
+TEST_0204,Meat
+TEST_0205,Dessert
+TEST_0206,Meat
+TEST_0207,Soup
+TEST_0208,Noodles-Pasta
+TEST_0209,Meat
+TEST_0210,Seafood
+TEST_0211,Seafood
+TEST_0212,Dessert
+TEST_0213,Vegetable-Fruit
+TEST_0214,Dessert
+TEST_0215,Dairy product
+TEST_0216,Soup
+TEST_0217,Noodles-Pasta
+TEST_0218,Rice
+TEST_0219,Egg
+TEST_0220,Egg
+TEST_0221,Seafood
+TEST_0222,Meat
+TEST_0223,Bread
+TEST_0224,Dessert
+TEST_0225,Soup
+TEST_0226,Soup
+TEST_0227,Bread
+TEST_0228,Meat
+TEST_0229,Vegetable-Fruit
+TEST_0230,Egg
+TEST_0231,Dessert
+TEST_0232,Soup
+TEST_0233,Meat
+TEST_0234,Soup
+TEST_0235,Dessert
+TEST_0236,Noodles-Pasta
+TEST_0237,Dairy product
+TEST_0238,Soup
+TEST_0239,Seafood
+TEST_0240,Soup
+TEST_0241,Meat
+TEST_0242,Noodles-Pasta
+TEST_0243,Dessert
+TEST_0244,Meat
+TEST_0245,Soup
+TEST_0246,Vegetable-Fruit
+TEST_0247,Soup
+TEST_0248,Soup
+TEST_0249,Meat
+TEST_0250,Seafood
+TEST_0251,Seafood
+TEST_0252,Dessert
+TEST_0253,Dessert
+TEST_0254,Soup
+TEST_0255,Noodles-Pasta
+TEST_0256,Soup
+TEST_0257,Egg
+TEST_0258,Meat
+TEST_0259,Bread
+TEST_0260,Egg
+TEST_0261,Egg
+TEST_0262,Soup
+TEST_0263,Noodles-Pasta
+TEST_0264,Dessert
+TEST_0265,Soup
+TEST_0266,Dessert
+TEST_0267,Dairy product
+TEST_0268,Meat
+TEST_0269,Fried food
+TEST_0270,Seafood
+TEST_0271,Dessert
+TEST_0272,Bread
+TEST_0273,Meat
+TEST_0274,Seafood
+TEST_0275,Fried food
+TEST_0276,Bread
+TEST_0277,Soup
+TEST_0278,Meat
+TEST_0279,Seafood
+TEST_0280,Soup
+TEST_0281,Meat
+TEST_0282,Soup
+TEST_0283,Meat
+TEST_0284,Egg
+TEST_0285,Dessert
+TEST_0286,Vegetable-Fruit
+TEST_0287,Egg
+TEST_0288,Meat
+TEST_0289,Soup
+TEST_0290,Meat
+TEST_0291,Vegetable-Fruit
+TEST_0292,Fried food
+TEST_0293,Egg
+TEST_0294,Vegetable-Fruit
+TEST_0295,Meat
+TEST_0296,Bread
+TEST_0297,Bread
+TEST_0298,Soup
+TEST_0299,Rice
+TEST_0300,Fried food
+TEST_0301,Dessert
+TEST_0302,Egg
+TEST_0303,Fried food
+TEST_0304,Meat
+TEST_0305,Bread
+TEST_0306,Dessert
+TEST_0307,Egg
+TEST_0308,Seafood
+TEST_0309,Seafood
+TEST_0310,Bread
+TEST_0311,Seafood
+TEST_0312,Soup
+TEST_0313,Vegetable-Fruit
+TEST_0314,Egg
+TEST_0315,Egg
+TEST_0316,Soup
+TEST_0317,Fried food
+TEST_0318,Dessert
+TEST_0319,Dessert
+TEST_0320,Meat
+TEST_0321,Soup
+TEST_0322,Vegetable-Fruit
+TEST_0323,Soup
+TEST_0324,Vegetable-Fruit
+TEST_0325,Bread
+TEST_0326,Egg
+TEST_0327,Dairy product
+TEST_0328,Meat
+TEST_0329,Meat
+TEST_0330,Bread
+TEST_0331,Dairy product
+TEST_0332,Fried food
+TEST_0333,Rice
+TEST_0334,Fried food
+TEST_0335,Bread
+TEST_0336,Meat
+TEST_0337,Fried food
+TEST_0338,Meat
+TEST_0339,Bread
+TEST_0340,Bread
+TEST_0341,Dessert
+TEST_0342,Meat
+TEST_0343,Soup
+TEST_0344,Seafood
+TEST_0345,Noodles-Pasta
+TEST_0346,Rice
+TEST_0347,Fried food
+TEST_0348,Soup
+TEST_0349,Egg
+TEST_0350,Egg
+TEST_0351,Meat
+TEST_0352,Egg
+TEST_0353,Meat
+TEST_0354,Noodles-Pasta
+TEST_0355,Seafood
+TEST_0356,Dessert
+TEST_0357,Meat
+TEST_0358,Bread
+TEST_0359,Dairy product
+TEST_0360,Fried food
+TEST_0361,Bread
+TEST_0362,Bread
+TEST_0363,Soup
+TEST_0364,Seafood
+TEST_0365,Seafood
+TEST_0366,Meat
+TEST_0367,Egg
+TEST_0368,Dessert
+TEST_0369,Dessert
+TEST_0370,Dairy product
+TEST_0371,Bread
+TEST_0372,Meat
+TEST_0373,Soup
+TEST_0374,Meat
+TEST_0375,Dessert
+TEST_0376,Meat
+TEST_0377,Dessert
+TEST_0378,Meat
+TEST_0379,Meat
+TEST_0380,Dessert
+TEST_0381,Vegetable-Fruit
+TEST_0382,Dessert
+TEST_0383,Seafood
+TEST_0384,Fried food
+TEST_0385,Meat
+TEST_0386,Fried food
+TEST_0387,Bread
+TEST_0388,Bread
+TEST_0389,Egg
+TEST_0390,Soup
+TEST_0391,Dairy product
+TEST_0392,Egg
+TEST_0393,Seafood
+TEST_0394,Meat
+TEST_0395,Seafood
+TEST_0396,Dessert
+TEST_0397,Seafood
+TEST_0398,Dessert
+TEST_0399,Dairy product
+TEST_0400,Egg
+TEST_0401,Vegetable-Fruit
+TEST_0402,Dessert
+TEST_0403,Bread
+TEST_0404,Egg
+TEST_0405,Soup
+TEST_0406,Seafood
+TEST_0407,Meat
+TEST_0408,Soup
+TEST_0409,Meat
+TEST_0410,Bread
+TEST_0411,Vegetable-Fruit
+TEST_0412,Noodles-Pasta
+TEST_0413,Egg
+TEST_0414,Egg
+TEST_0415,Vegetable-Fruit
+TEST_0416,Bread
+TEST_0417,Seafood
+TEST_0418,Soup
+TEST_0419,Soup
+TEST_0420,Dessert
+TEST_0421,Egg
+TEST_0422,Meat
+TEST_0423,Dessert
+TEST_0424,Soup
+TEST_0425,Soup
+TEST_0426,Noodles-Pasta
+TEST_0427,Soup
+TEST_0428,Soup
+TEST_0429,Meat
+TEST_0430,Dessert
+TEST_0431,Egg
+TEST_0432,Meat
+TEST_0433,Vegetable-Fruit
+TEST_0434,Seafood
+TEST_0435,Dessert
+TEST_0436,Dessert
+TEST_0437,Dessert
+TEST_0438,Fried food
+TEST_0439,Soup
+TEST_0440,Egg
+TEST_0441,Dairy product
+TEST_0442,Noodles-Pasta
+TEST_0443,Meat
+TEST_0444,Meat
+TEST_0445,Dairy product
+TEST_0446,Soup
+TEST_0447,Fried food
+TEST_0448,Egg
+TEST_0449,Egg
+TEST_0450,Meat
+TEST_0451,Noodles-Pasta
+TEST_0452,Rice
+TEST_0453,Dessert
+TEST_0454,Fried food
+TEST_0455,Meat
+TEST_0456,Dessert
+TEST_0457,Meat
+TEST_0458,Egg
+TEST_0459,Fried food
+TEST_0460,Dessert
+TEST_0461,Fried food
+TEST_0462,Dessert
+TEST_0463,Egg
+TEST_0464,Egg
+TEST_0465,Bread
+TEST_0466,Soup
+TEST_0467,Vegetable-Fruit
+TEST_0468,Egg
+TEST_0469,Dessert
+TEST_0470,Egg
+TEST_0471,Soup
+TEST_0472,Fried food
+TEST_0473,Bread
+TEST_0474,Bread
+TEST_0475,Dairy product
+TEST_0476,Fried food
+TEST_0477,Egg
+TEST_0478,Soup
+TEST_0479,Dessert
+TEST_0480,Dessert
+TEST_0481,Dessert
+TEST_0482,Soup
+TEST_0483,Dessert
+TEST_0484,Dessert
+TEST_0485,Egg
+TEST_0486,Bread
+TEST_0487,Egg
+TEST_0488,Soup
+TEST_0489,Seafood
+TEST_0490,Rice
+TEST_0491,Dairy product
+TEST_0492,Meat
+TEST_0493,Noodles-Pasta
+TEST_0494,Meat
+TEST_0495,Rice
+TEST_0496,Egg
+TEST_0497,Meat
+TEST_0498,Meat
+TEST_0499,Soup
+TEST_0500,Egg
+TEST_0501,Noodles-Pasta
+TEST_0502,Vegetable-Fruit
+TEST_0503,Rice
+TEST_0504,Rice
+TEST_0505,Meat
+TEST_0506,Fried food
+TEST_0507,Egg
+TEST_0508,Soup
+TEST_0509,Seafood
+TEST_0510,Meat
+TEST_0511,Egg
+TEST_0512,Meat
+TEST_0513,Dessert
+TEST_0514,Meat
+TEST_0515,Egg
+TEST_0516,Bread
+TEST_0517,Soup
+TEST_0518,Egg
+TEST_0519,Vegetable-Fruit
+TEST_0520,Soup
+TEST_0521,Egg
+TEST_0522,Seafood
+TEST_0523,Noodles-Pasta
+TEST_0524,Meat
+TEST_0525,Rice
+TEST_0526,Soup
+TEST_0527,Soup
+TEST_0528,Dessert
+TEST_0529,Seafood
+TEST_0530,Noodles-Pasta
+TEST_0531,Vegetable-Fruit
+TEST_0532,Meat
+TEST_0533,Vegetable-Fruit
+TEST_0534,Soup
+TEST_0535,Soup
+TEST_0536,Seafood
+TEST_0537,Egg
+TEST_0538,Meat
+TEST_0539,Soup
+TEST_0540,Vegetable-Fruit
+TEST_0541,Vegetable-Fruit
+TEST_0542,Bread
+TEST_0543,Soup
+TEST_0544,Soup
+TEST_0545,Soup
+TEST_0546,Soup
+TEST_0547,Soup
+TEST_0548,Soup
+TEST_0549,Seafood
+TEST_0550,Meat
+TEST_0551,Bread
+TEST_0552,Meat
+TEST_0553,Egg
+TEST_0554,Dairy product
+TEST_0555,Dairy product
+TEST_0556,Noodles-Pasta
+TEST_0557,Seafood
+TEST_0558,Meat
+TEST_0559,Meat
+TEST_0560,Dairy product
+TEST_0561,Soup
+TEST_0562,Vegetable-Fruit
+TEST_0563,Meat
+TEST_0564,Vegetable-Fruit
+TEST_0565,Meat
+TEST_0566,Vegetable-Fruit
+TEST_0567,Soup
+TEST_0568,Soup
+TEST_0569,Rice
+TEST_0570,Soup
+TEST_0571,Meat
+TEST_0572,Vegetable-Fruit
+TEST_0573,Vegetable-Fruit
+TEST_0574,Seafood
+TEST_0575,Meat
+TEST_0576,Vegetable-Fruit
+TEST_0577,Soup
+TEST_0578,Meat
+TEST_0579,Dairy product
+TEST_0580,Meat
+TEST_0581,Bread
+TEST_0582,Rice
+TEST_0583,Dessert
+TEST_0584,Meat
+TEST_0585,Egg
+TEST_0586,Soup
+TEST_0587,Seafood
+TEST_0588,Soup
+TEST_0589,Bread
+TEST_0590,Soup
+TEST_0591,Soup
+TEST_0592,Meat
+TEST_0593,Meat
+TEST_0594,Meat
+TEST_0595,Soup
+TEST_0596,Dessert
+TEST_0597,Fried food
+TEST_0598,Egg
+TEST_0599,Meat
+TEST_0600,Vegetable-Fruit
+TEST_0601,Dairy product
+TEST_0602,Dessert
+TEST_0603,Meat
+TEST_0604,Dairy product
+TEST_0605,Fried food
+TEST_0606,Seafood
+TEST_0607,Bread
+TEST_0608,Fried food
+TEST_0609,Meat
+TEST_0610,Bread
+TEST_0611,Meat
+TEST_0612,Meat
+TEST_0613,Soup
+TEST_0614,Egg
+TEST_0615,Egg
+TEST_0616,Seafood
+TEST_0617,Vegetable-Fruit
+TEST_0618,Dairy product
+TEST_0619,Dessert
+TEST_0620,Soup
+TEST_0621,Seafood
+TEST_0622,Bread
+TEST_0623,Vegetable-Fruit
+TEST_0624,Bread
+TEST_0625,Egg
+TEST_0626,Soup
+TEST_0627,Rice
+TEST_0628,Egg
+TEST_0629,Fried food
+TEST_0630,Seafood
+TEST_0631,Dessert
+TEST_0632,Dessert
+TEST_0633,Seafood
+TEST_0634,Soup
+TEST_0635,Bread
+TEST_0636,Meat
+TEST_0637,Meat
+TEST_0638,Soup
+TEST_0639,Noodles-Pasta
+TEST_0640,Vegetable-Fruit
+TEST_0641,Dessert
+TEST_0642,Dessert
+TEST_0643,Bread
+TEST_0644,Noodles-Pasta
+TEST_0645,Noodles-Pasta
+TEST_0646,Fried food
+TEST_0647,Vegetable-Fruit
+TEST_0648,Vegetable-Fruit
+TEST_0649,Fried food
+TEST_0650,Bread
+TEST_0651,Egg
+TEST_0652,Dessert
+TEST_0653,Seafood
+TEST_0654,Dessert
+TEST_0655,Meat
+TEST_0656,Vegetable-Fruit
+TEST_0657,Dessert
+TEST_0658,Egg
+TEST_0659,Dessert
+TEST_0660,Soup
+TEST_0661,Soup
+TEST_0662,Soup
+TEST_0663,Bread
+TEST_0664,Fried food
+TEST_0665,Dairy product
+TEST_0666,Noodles-Pasta
+TEST_0667,Vegetable-Fruit
+TEST_0668,Dessert
+TEST_0669,Vegetable-Fruit
+TEST_0670,Soup
+TEST_0671,Bread
+TEST_0672,Dairy product
+TEST_0673,Bread
+TEST_0674,Meat
+TEST_0675,Meat
+TEST_0676,Vegetable-Fruit
+TEST_0677,Fried food
+TEST_0678,Dessert
+TEST_0679,Fried food
+TEST_0680,Fried food
+TEST_0681,Dessert
+TEST_0682,Dessert
+TEST_0683,Soup
+TEST_0684,Egg
+TEST_0685,Dessert
+TEST_0686,Seafood
+TEST_0687,Vegetable-Fruit
+TEST_0688,Egg
+TEST_0689,Egg
+TEST_0690,Seafood
+TEST_0691,Meat
+TEST_0692,Noodles-Pasta
+TEST_0693,Egg
+TEST_0694,Egg
+TEST_0695,Meat
+TEST_0696,Bread
+TEST_0697,Bread
+TEST_0698,Soup
+TEST_0699,Seafood
+TEST_0700,Egg
+TEST_0701,Meat
+TEST_0702,Meat
+TEST_0703,Meat
+TEST_0704,Meat
+TEST_0705,Soup
+TEST_0706,Fried food
+TEST_0707,Soup
+TEST_0708,Dessert
+TEST_0709,Soup
+TEST_0710,Dessert
+TEST_0711,Egg
+TEST_0712,Noodles-Pasta
+TEST_0713,Dairy product
+TEST_0714,Noodles-Pasta
+TEST_0715,Meat
+TEST_0716,Dessert
+TEST_0717,Egg
+TEST_0718,Seafood
+TEST_0719,Bread
+TEST_0720,Seafood
+TEST_0721,Dessert
+TEST_0722,Dessert
+TEST_0723,Vegetable-Fruit
+TEST_0724,Meat
+TEST_0725,Dessert
+TEST_0726,Soup
+TEST_0727,Vegetable-Fruit
+TEST_0728,Seafood
+TEST_0729,Bread
+TEST_0730,Meat
+TEST_0731,Noodles-Pasta
+TEST_0732,Meat
+TEST_0733,Fried food
+TEST_0734,Soup
+TEST_0735,Seafood
+TEST_0736,Dessert
+TEST_0737,Seafood
+TEST_0738,Noodles-Pasta
+TEST_0739,Bread
+TEST_0740,Rice
+TEST_0741,Bread
+TEST_0742,Bread
+TEST_0743,Meat
+TEST_0744,Soup
+TEST_0745,Bread
+TEST_0746,Seafood
+TEST_0747,Dessert
+TEST_0748,Soup
+TEST_0749,Egg
+TEST_0750,Soup
+TEST_0751,Rice
+TEST_0752,Dessert
+TEST_0753,Dessert
+TEST_0754,Vegetable-Fruit
+TEST_0755,Meat
+TEST_0756,Egg
+TEST_0757,Dessert
+TEST_0758,Egg
+TEST_0759,Egg
+TEST_0760,Seafood
+TEST_0761,Fried food
+TEST_0762,Seafood
+TEST_0763,Dairy product
+TEST_0764,Soup
+TEST_0765,Meat
+TEST_0766,Dessert
+TEST_0767,Dessert
+TEST_0768,Meat
+TEST_0769,Seafood
+TEST_0770,Bread
+TEST_0771,Meat
+TEST_0772,Soup
+TEST_0773,Dessert
+TEST_0774,Fried food
+TEST_0775,Bread
+TEST_0776,Soup
+TEST_0777,Noodles-Pasta
+TEST_0778,Fried food
+TEST_0779,Meat
+TEST_0780,Dessert
+TEST_0781,Dessert
+TEST_0782,Meat
+TEST_0783,Meat
+TEST_0784,Dessert
+TEST_0785,Egg
+TEST_0786,Meat
+TEST_0787,Soup
+TEST_0788,Rice
+TEST_0789,Soup
+TEST_0790,Dessert
+TEST_0791,Noodles-Pasta
+TEST_0792,Egg
+TEST_0793,Egg
+TEST_0794,Meat
+TEST_0795,Bread
+TEST_0796,Egg
+TEST_0797,Egg
+TEST_0798,Fried food
+TEST_0799,Rice
+TEST_0800,Noodles-Pasta
+TEST_0801,Bread
+TEST_0802,Vegetable-Fruit
+TEST_0803,Seafood
+TEST_0804,Bread
+TEST_0805,Noodles-Pasta
+TEST_0806,Bread
+TEST_0807,Vegetable-Fruit
+TEST_0808,Bread
+TEST_0809,Fried food
+TEST_0810,Vegetable-Fruit
+TEST_0811,Egg
+TEST_0812,Fried food
+TEST_0813,Soup
+TEST_0814,Dessert
+TEST_0815,Soup
+TEST_0816,Meat
+TEST_0817,Fried food
+TEST_0818,Bread
+TEST_0819,Bread
+TEST_0820,Fried food
+TEST_0821,Fried food
+TEST_0822,Noodles-Pasta
+TEST_0823,Meat
+TEST_0824,Egg
+TEST_0825,Dessert
+TEST_0826,Dessert
+TEST_0827,Soup
+TEST_0828,Dessert
+TEST_0829,Bread
+TEST_0830,Meat
+TEST_0831,Dessert
+TEST_0832,Soup
+TEST_0833,Egg
+TEST_0834,Egg
+TEST_0835,Dessert
+TEST_0836,Fried food
+TEST_0837,Meat
+TEST_0838,Bread
+TEST_0839,Fried food
+TEST_0840,Soup
+TEST_0841,Dessert
+TEST_0842,Meat
+TEST_0843,Vegetable-Fruit
+TEST_0844,Meat
+TEST_0845,Rice
+TEST_0846,Dessert
+TEST_0847,Bread
+TEST_0848,Soup
+TEST_0849,Vegetable-Fruit
+TEST_0850,Soup
+TEST_0851,Meat
+TEST_0852,Vegetable-Fruit
+TEST_0853,Dessert
+TEST_0854,Bread
+TEST_0855,Rice
+TEST_0856,Seafood
+TEST_0857,Dessert
+TEST_0858,Vegetable-Fruit
+TEST_0859,Fried food
+TEST_0860,Soup
+TEST_0861,Seafood
+TEST_0862,Soup
+TEST_0863,Noodles-Pasta
+TEST_0864,Egg
+TEST_0865,Fried food
+TEST_0866,Soup
+TEST_0867,Meat
+TEST_0868,Egg
+TEST_0869,Meat
+TEST_0870,Soup
+TEST_0871,Meat
+TEST_0872,Noodles-Pasta
+TEST_0873,Soup
+TEST_0874,Soup
+TEST_0875,Dessert
+TEST_0876,Rice
+TEST_0877,Dessert
+TEST_0878,Meat
+TEST_0879,Meat
+TEST_0880,Bread
+TEST_0881,Noodles-Pasta
+TEST_0882,Soup
+TEST_0883,Soup
+TEST_0884,Meat
+TEST_0885,Egg
+TEST_0886,Meat
+TEST_0887,Noodles-Pasta
+TEST_0888,Egg
+TEST_0889,Meat
+TEST_0890,Meat
+TEST_0891,Egg
+TEST_0892,Seafood
+TEST_0893,Soup
+TEST_0894,Vegetable-Fruit
+TEST_0895,Fried food
+TEST_0896,Soup
+TEST_0897,Soup
+TEST_0898,Soup
+TEST_0899,Seafood
+TEST_0900,Egg
+TEST_0901,Dairy product
+TEST_0902,Seafood
+TEST_0903,Meat
+TEST_0904,Meat
+TEST_0905,Dessert
+TEST_0906,Vegetable-Fruit
+TEST_0907,Dessert
+TEST_0908,Seafood
+TEST_0909,Dessert
+TEST_0910,Bread
+TEST_0911,Dessert
+TEST_0912,Fried food
+TEST_0913,Meat
+TEST_0914,Dessert
+TEST_0915,Seafood
+TEST_0916,Rice
+TEST_0917,Meat
+TEST_0918,Meat
+TEST_0919,Dessert
+TEST_0920,Soup
+TEST_0921,Soup
+TEST_0922,Vegetable-Fruit
+TEST_0923,Bread
+TEST_0924,Meat
+TEST_0925,Egg
+TEST_0926,Meat
+TEST_0927,Vegetable-Fruit
+TEST_0928,Dessert
+TEST_0929,Egg
+TEST_0930,Fried food
+TEST_0931,Fried food
+TEST_0932,Vegetable-Fruit
+TEST_0933,Bread
+TEST_0934,Meat
+TEST_0935,Soup
+TEST_0936,Dessert
+TEST_0937,Seafood
+TEST_0938,Dairy product
+TEST_0939,Soup
+TEST_0940,Meat
+TEST_0941,Egg
+TEST_0942,Meat
+TEST_0943,Meat
+TEST_0944,Soup
+TEST_0945,Bread
+TEST_0946,Dessert
+TEST_0947,Dessert
+TEST_0948,Meat
+TEST_0949,Seafood
+TEST_0950,Fried food
+TEST_0951,Fried food
+TEST_0952,Meat
+TEST_0953,Meat
+TEST_0954,Dessert
+TEST_0955,Bread
+TEST_0956,Meat
+TEST_0957,Dessert
+TEST_0958,Vegetable-Fruit
+TEST_0959,Seafood
+TEST_0960,Vegetable-Fruit
+TEST_0961,Meat
+TEST_0962,Rice
+TEST_0963,Noodles-Pasta
+TEST_0964,Bread
+TEST_0965,Meat
+TEST_0966,Dairy product
+TEST_0967,Vegetable-Fruit
+TEST_0968,Noodles-Pasta
+TEST_0969,Meat
+TEST_0970,Dessert
+TEST_0971,Meat
+TEST_0972,Vegetable-Fruit
+TEST_0973,Soup
+TEST_0974,Bread
+TEST_0975,Seafood
+TEST_0976,Bread
+TEST_0977,Rice
+TEST_0978,Egg
+TEST_0979,Egg
+TEST_0980,Egg
+TEST_0981,Meat
+TEST_0982,Meat
+TEST_0983,Noodles-Pasta
+TEST_0984,Dessert
+TEST_0985,Seafood
+TEST_0986,Meat
+TEST_0987,Meat
+TEST_0988,Soup
+TEST_0989,Meat
+TEST_0990,Vegetable-Fruit
+TEST_0991,Fried food
+TEST_0992,Bread
+TEST_0993,Seafood
+TEST_0994,Dessert
+TEST_0995,Dessert
+TEST_0996,Dessert
+TEST_0997,Vegetable-Fruit
+TEST_0998,Meat
+TEST_0999,Meat
+TEST_1000,Soup
+TEST_1001,Dairy product
+TEST_1002,Meat
+TEST_1003,Seafood
+TEST_1004,Dessert
+TEST_1005,Fried food
+TEST_1006,Egg
+TEST_1007,Bread
+TEST_1008,Dessert
+TEST_1009,Soup
+TEST_1010,Meat
+TEST_1011,Dessert
+TEST_1012,Soup
+TEST_1013,Seafood
+TEST_1014,Soup
+TEST_1015,Meat
+TEST_1016,Dessert
+TEST_1017,Vegetable-Fruit
+TEST_1018,Seafood
+TEST_1019,Bread
+TEST_1020,Dessert
+TEST_1021,Meat
+TEST_1022,Dessert
+TEST_1023,Meat
+TEST_1024,Soup
+TEST_1025,Bread
+TEST_1026,Egg
+TEST_1027,Egg
+TEST_1028,Meat
+TEST_1029,Rice
+TEST_1030,Meat
+TEST_1031,Seafood
+TEST_1032,Meat
+TEST_1033,Egg
+TEST_1034,Meat
+TEST_1035,Fried food
+TEST_1036,Vegetable-Fruit
+TEST_1037,Rice
+TEST_1038,Soup
+TEST_1039,Soup
+TEST_1040,Meat
+TEST_1041,Soup
+TEST_1042,Dessert
+TEST_1043,Soup
+TEST_1044,Dessert
+TEST_1045,Dessert
+TEST_1046,Meat
+TEST_1047,Dairy product
+TEST_1048,Soup
+TEST_1049,Dairy product
+TEST_1050,Egg
+TEST_1051,Meat
+TEST_1052,Fried food
+TEST_1053,Soup
+TEST_1054,Seafood
+TEST_1055,Fried food
+TEST_1056,Seafood
+TEST_1057,Meat
+TEST_1058,Meat
+TEST_1059,Egg
+TEST_1060,Bread
+TEST_1061,Dessert
+TEST_1062,Dessert
+TEST_1063,Meat
+TEST_1064,Seafood
+TEST_1065,Dessert
+TEST_1066,Noodles-Pasta
+TEST_1067,Dessert
+TEST_1068,Seafood
+TEST_1069,Vegetable-Fruit
+TEST_1070,Dessert
+TEST_1071,Dessert
+TEST_1072,Bread
+TEST_1073,Dairy product
+TEST_1074,Dessert
+TEST_1075,Noodles-Pasta
+TEST_1076,Rice
+TEST_1077,Fried food
+TEST_1078,Fried food
+TEST_1079,Noodles-Pasta
+TEST_1080,Egg
+TEST_1081,Soup
+TEST_1082,Meat
+TEST_1083,Meat
+TEST_1084,Rice
+TEST_1085,Egg
+TEST_1086,Vegetable-Fruit
+TEST_1087,Vegetable-Fruit
+TEST_1088,Rice
+TEST_1089,Soup
+TEST_1090,Meat
+TEST_1091,Vegetable-Fruit
+TEST_1092,Seafood
+TEST_1093,Vegetable-Fruit
+TEST_1094,Meat
+TEST_1095,Dessert
+TEST_1096,Meat
+TEST_1097,Soup
+TEST_1098,Egg
+TEST_1099,Dessert
+TEST_1100,Dessert
+TEST_1101,Dessert
+TEST_1102,Seafood
+TEST_1103,Egg
+TEST_1104,Bread
+TEST_1105,Meat
+TEST_1106,Egg
+TEST_1107,Meat
+TEST_1108,Fried food
+TEST_1109,Meat
+TEST_1110,Dessert
+TEST_1111,Egg
+TEST_1112,Egg
+TEST_1113,Egg
+TEST_1114,Bread
+TEST_1115,Bread
+TEST_1116,Seafood
+TEST_1117,Seafood
+TEST_1118,Seafood
+TEST_1119,Meat
+TEST_1120,Egg
+TEST_1121,Fried food
+TEST_1122,Seafood
+TEST_1123,Meat
+TEST_1124,Seafood
+TEST_1125,Seafood
+TEST_1126,Dessert
+TEST_1127,Soup
+TEST_1128,Meat
+TEST_1129,Soup
+TEST_1130,Vegetable-Fruit
+TEST_1131,Dairy product
+TEST_1132,Egg
+TEST_1133,Meat
+TEST_1134,Soup
+TEST_1135,Dessert
+TEST_1136,Rice
+TEST_1137,Dessert
+TEST_1138,Fried food
+TEST_1139,Seafood
+TEST_1140,Dairy product
+TEST_1141,Dessert
+TEST_1142,Dessert
+TEST_1143,Meat
+TEST_1144,Bread
+TEST_1145,Meat
+TEST_1146,Dessert
+TEST_1147,Meat
+TEST_1148,Bread
+TEST_1149,Noodles-Pasta
+TEST_1150,Fried food
+TEST_1151,Dessert
+TEST_1152,Vegetable-Fruit
+TEST_1153,Soup
+TEST_1154,Seafood
+TEST_1155,Egg
+TEST_1156,Soup
+TEST_1157,Dairy product
+TEST_1158,Dessert
+TEST_1159,Dessert
+TEST_1160,Bread
+TEST_1161,Egg
+TEST_1162,Meat
+TEST_1163,Seafood
+TEST_1164,Seafood
+TEST_1165,Dessert
+TEST_1166,Fried food
+TEST_1167,Bread
+TEST_1168,Meat
+TEST_1169,Soup
+TEST_1170,Fried food
+TEST_1171,Dairy product
+TEST_1172,Dessert
+TEST_1173,Meat
+TEST_1174,Dessert
+TEST_1175,Soup
+TEST_1176,Noodles-Pasta
+TEST_1177,Meat
+TEST_1178,Meat
+TEST_1179,Vegetable-Fruit
+TEST_1180,Dessert
+TEST_1181,Soup
+TEST_1182,Seafood
+TEST_1183,Egg
+TEST_1184,Seafood
+TEST_1185,Bread
+TEST_1186,Fried food
+TEST_1187,Soup
+TEST_1188,Seafood
+TEST_1189,Bread
+TEST_1190,Soup
+TEST_1191,Fried food
+TEST_1192,Soup
+TEST_1193,Meat
+TEST_1194,Dairy product
+TEST_1195,Egg
+TEST_1196,Dessert
+TEST_1197,Dairy product
+TEST_1198,Egg
+TEST_1199,Vegetable-Fruit
+TEST_1200,Bread
+TEST_1201,Dessert
+TEST_1202,Vegetable-Fruit
+TEST_1203,Seafood
+TEST_1204,Meat
+TEST_1205,Noodles-Pasta
+TEST_1206,Egg
+TEST_1207,Soup
+TEST_1208,Meat
+TEST_1209,Bread
+TEST_1210,Meat
+TEST_1211,Seafood
+TEST_1212,Dessert
+TEST_1213,Meat
+TEST_1214,Vegetable-Fruit
+TEST_1215,Dessert
+TEST_1216,Soup
+TEST_1217,Soup
+TEST_1218,Bread
+TEST_1219,Fried food
+TEST_1220,Vegetable-Fruit
+TEST_1221,Meat
+TEST_1222,Seafood
+TEST_1223,Meat
+TEST_1224,Dairy product
+TEST_1225,Dessert
+TEST_1226,Bread
+TEST_1227,Seafood
+TEST_1228,Soup
+TEST_1229,Egg
+TEST_1230,Fried food
+TEST_1231,Vegetable-Fruit
+TEST_1232,Fried food
+TEST_1233,Meat
+TEST_1234,Bread
+TEST_1235,Egg
+TEST_1236,Fried food
+TEST_1237,Vegetable-Fruit
+TEST_1238,Fried food
+TEST_1239,Meat
+TEST_1240,Fried food
+TEST_1241,Meat
+TEST_1242,Rice
+TEST_1243,Meat
+TEST_1244,Meat
+TEST_1245,Bread
+TEST_1246,Vegetable-Fruit
+TEST_1247,Rice
+TEST_1248,Bread
+TEST_1249,Soup
+TEST_1250,Egg
+TEST_1251,Soup
+TEST_1252,Bread
+TEST_1253,Dessert
+TEST_1254,Bread
+TEST_1255,Egg
+TEST_1256,Fried food
+TEST_1257,Noodles-Pasta
+TEST_1258,Egg
+TEST_1259,Bread
+TEST_1260,Dairy product
+TEST_1261,Egg
+TEST_1262,Egg
+TEST_1263,Dessert
+TEST_1264,Egg
+TEST_1265,Meat
+TEST_1266,Soup
+TEST_1267,Soup
+TEST_1268,Meat
+TEST_1269,Dessert
+TEST_1270,Bread
+TEST_1271,Seafood
+TEST_1272,Egg
+TEST_1273,Meat
+TEST_1274,Soup
+TEST_1275,Egg
+TEST_1276,Egg
+TEST_1277,Soup
+TEST_1278,Egg
+TEST_1279,Soup
+TEST_1280,Seafood
+TEST_1281,Dessert
+TEST_1282,Egg
+TEST_1283,Seafood
+TEST_1284,Noodles-Pasta
+TEST_1285,Dessert
+TEST_1286,Dessert
+TEST_1287,Fried food
+TEST_1288,Seafood
+TEST_1289,Bread
+TEST_1290,Fried food
+TEST_1291,Vegetable-Fruit
+TEST_1292,Dairy product
+TEST_1293,Vegetable-Fruit
+TEST_1294,Egg
+TEST_1295,Egg
+TEST_1296,Meat
+TEST_1297,Bread
+TEST_1298,Soup
+TEST_1299,Seafood
+TEST_1300,Bread
+TEST_1301,Meat
+TEST_1302,Fried food
+TEST_1303,Soup
+TEST_1304,Soup
+TEST_1305,Egg
+TEST_1306,Noodles-Pasta
+TEST_1307,Rice
+TEST_1308,Bread
+TEST_1309,Dessert
+TEST_1310,Dessert
+TEST_1311,Meat
+TEST_1312,Dessert
+TEST_1313,Meat
+TEST_1314,Fried food
+TEST_1315,Meat
+TEST_1316,Dessert
+TEST_1317,Meat
+TEST_1318,Vegetable-Fruit
+TEST_1319,Egg
+TEST_1320,Meat
+TEST_1321,Seafood
+TEST_1322,Dessert
+TEST_1323,Seafood
+TEST_1324,Bread
+TEST_1325,Noodles-Pasta
+TEST_1326,Dessert
+TEST_1327,Meat
+TEST_1328,Bread
+TEST_1329,Egg
+TEST_1330,Dessert
+TEST_1331,Dessert
+TEST_1332,Egg
+TEST_1333,Rice
+TEST_1334,Noodles-Pasta
+TEST_1335,Dairy product
+TEST_1336,Dessert
+TEST_1337,Fried food
+TEST_1338,Seafood
+TEST_1339,Meat
+TEST_1340,Noodles-Pasta
+TEST_1341,Dessert
+TEST_1342,Seafood
+TEST_1343,Soup
+TEST_1344,Bread
+TEST_1345,Fried food
+TEST_1346,Meat
+TEST_1347,Meat
+TEST_1348,Dairy product
+TEST_1349,Noodles-Pasta
+TEST_1350,Seafood
+TEST_1351,Noodles-Pasta
+TEST_1352,Dessert
+TEST_1353,Seafood
+TEST_1354,Seafood
+TEST_1355,Egg
+TEST_1356,Rice
+TEST_1357,Bread
+TEST_1358,Bread
+TEST_1359,Vegetable-Fruit
+TEST_1360,Fried food
+TEST_1361,Seafood
+TEST_1362,Vegetable-Fruit
+TEST_1363,Soup
+TEST_1364,Seafood
+TEST_1365,Noodles-Pasta
+TEST_1366,Meat
+TEST_1367,Rice
+TEST_1368,Dessert
+TEST_1369,Dessert
+TEST_1370,Noodles-Pasta
+TEST_1371,Bread
+TEST_1372,Noodles-Pasta
+TEST_1373,Dessert
+TEST_1374,Seafood
+TEST_1375,Fried food
+TEST_1376,Vegetable-Fruit
+TEST_1377,Dessert
+TEST_1378,Fried food
+TEST_1379,Seafood
+TEST_1380,Bread
+TEST_1381,Dessert
+TEST_1382,Bread
+TEST_1383,Soup
+TEST_1384,Bread
+TEST_1385,Soup
+TEST_1386,Soup
+TEST_1387,Vegetable-Fruit
+TEST_1388,Soup
+TEST_1389,Egg
+TEST_1390,Soup
+TEST_1391,Soup
+TEST_1392,Noodles-Pasta
+TEST_1393,Egg
+TEST_1394,Soup
+TEST_1395,Meat
+TEST_1396,Meat
+TEST_1397,Fried food
+TEST_1398,Dairy product
+TEST_1399,Seafood
+TEST_1400,Noodles-Pasta
+TEST_1401,Dessert
+TEST_1402,Soup
+TEST_1403,Egg
+TEST_1404,Soup
+TEST_1405,Dairy product
+TEST_1406,Soup
+TEST_1407,Fried food
+TEST_1408,Soup
+TEST_1409,Meat
+TEST_1410,Dessert
+TEST_1411,Bread
+TEST_1412,Dessert
+TEST_1413,Dessert
+TEST_1414,Meat
+TEST_1415,Dessert
+TEST_1416,Vegetable-Fruit
+TEST_1417,Bread
+TEST_1418,Meat
+TEST_1419,Noodles-Pasta
+TEST_1420,Seafood
+TEST_1421,Rice
+TEST_1422,Meat
+TEST_1423,Bread
+TEST_1424,Meat
+TEST_1425,Soup
+TEST_1426,Dessert
+TEST_1427,Seafood
+TEST_1428,Dessert
+TEST_1429,Seafood
+TEST_1430,Fried food
+TEST_1431,Noodles-Pasta
+TEST_1432,Seafood
+TEST_1433,Seafood
+TEST_1434,Dessert
+TEST_1435,Meat
+TEST_1436,Soup
+TEST_1437,Fried food
+TEST_1438,Dairy product
+TEST_1439,Egg
+TEST_1440,Noodles-Pasta
+TEST_1441,Seafood
+TEST_1442,Fried food
+TEST_1443,Bread
+TEST_1444,Soup
+TEST_1445,Egg
+TEST_1446,Seafood
+TEST_1447,Fried food
+TEST_1448,Fried food
+TEST_1449,Soup
+TEST_1450,Egg
+TEST_1451,Soup
+TEST_1452,Seafood
+TEST_1453,Dessert
+TEST_1454,Soup
+TEST_1455,Meat
+TEST_1456,Meat
+TEST_1457,Vegetable-Fruit
+TEST_1458,Dessert
+TEST_1459,Seafood
+TEST_1460,Soup
+TEST_1461,Vegetable-Fruit
+TEST_1462,Meat
+TEST_1463,Vegetable-Fruit
+TEST_1464,Dairy product
+TEST_1465,Meat
+TEST_1466,Dairy product
+TEST_1467,Meat
+TEST_1468,Dessert
+TEST_1469,Dessert
+TEST_1470,Rice
+TEST_1471,Vegetable-Fruit
+TEST_1472,Soup
+TEST_1473,Meat
+TEST_1474,Egg
+TEST_1475,Soup
+TEST_1476,Soup
+TEST_1477,Noodles-Pasta
+TEST_1478,Bread
+TEST_1479,Dessert
+TEST_1480,Soup
+TEST_1481,Egg
+TEST_1482,Bread
+TEST_1483,Soup
+TEST_1484,Vegetable-Fruit
+TEST_1485,Vegetable-Fruit
+TEST_1486,Egg
+TEST_1487,Rice
+TEST_1488,Dessert
+TEST_1489,Egg
+TEST_1490,Vegetable-Fruit
+TEST_1491,Egg
+TEST_1492,Seafood
+TEST_1493,Noodles-Pasta
+TEST_1494,Dessert
+TEST_1495,Soup
+TEST_1496,Fried food
+TEST_1497,Seafood
+TEST_1498,Dessert
+TEST_1499,Soup
+TEST_1500,Seafood
+TEST_1501,Noodles-Pasta
+TEST_1502,Soup
+TEST_1503,Seafood
+TEST_1504,Dessert
+TEST_1505,Fried food
+TEST_1506,Seafood
+TEST_1507,Soup
+TEST_1508,Meat
+TEST_1509,Egg
+TEST_1510,Seafood
+TEST_1511,Meat
+TEST_1512,Dessert
+TEST_1513,Soup
+TEST_1514,Soup
+TEST_1515,Dessert
+TEST_1516,Meat
+TEST_1517,Vegetable-Fruit
+TEST_1518,Dairy product
+TEST_1519,Meat
+TEST_1520,Meat
+TEST_1521,Seafood
+TEST_1522,Dairy product
+TEST_1523,Soup
+TEST_1524,Rice
+TEST_1525,Bread
+TEST_1526,Dairy product
+TEST_1527,Fried food
+TEST_1528,Egg
+TEST_1529,Soup
+TEST_1530,Fried food
+TEST_1531,Dessert
+TEST_1532,Egg
+TEST_1533,Seafood
+TEST_1534,Vegetable-Fruit
+TEST_1535,Soup
+TEST_1536,Bread
+TEST_1537,Bread
+TEST_1538,Dessert
+TEST_1539,Egg
+TEST_1540,Meat
+TEST_1541,Dairy product
+TEST_1542,Dessert
+TEST_1543,Seafood
+TEST_1544,Noodles-Pasta
+TEST_1545,Soup
+TEST_1546,Egg
+TEST_1547,Meat
+TEST_1548,Meat
+TEST_1549,Bread
+TEST_1550,Vegetable-Fruit
+TEST_1551,Meat
+TEST_1552,Egg
+TEST_1553,Soup
+TEST_1554,Seafood
+TEST_1555,Egg
+TEST_1556,Dessert
+TEST_1557,Bread
+TEST_1558,Dessert
+TEST_1559,Meat
+TEST_1560,Meat
+TEST_1561,Egg
+TEST_1562,Soup
+TEST_1563,Meat
+TEST_1564,Vegetable-Fruit
+TEST_1565,Fried food
+TEST_1566,Vegetable-Fruit
+TEST_1567,Soup
+TEST_1568,Dessert
+TEST_1569,Bread
+TEST_1570,Fried food
+TEST_1571,Soup
+TEST_1572,Noodles-Pasta
+TEST_1573,Soup
+TEST_1574,Rice
+TEST_1575,Soup
+TEST_1576,Dessert
+TEST_1577,Fried food
+TEST_1578,Vegetable-Fruit
+TEST_1579,Seafood
+TEST_1580,Meat
+TEST_1581,Dessert
+TEST_1582,Meat
+TEST_1583,Meat
+TEST_1584,Soup
+TEST_1585,Meat
+TEST_1586,Vegetable-Fruit
+TEST_1587,Fried food
+TEST_1588,Seafood
+TEST_1589,Vegetable-Fruit
+TEST_1590,Egg
+TEST_1591,Soup
+TEST_1592,Soup
+TEST_1593,Meat
+TEST_1594,Vegetable-Fruit
+TEST_1595,Meat
+TEST_1596,Fried food
+TEST_1597,Noodles-Pasta
+TEST_1598,Vegetable-Fruit
+TEST_1599,Bread
+TEST_1600,Fried food
+TEST_1601,Vegetable-Fruit
+TEST_1602,Soup
+TEST_1603,Meat
+TEST_1604,Meat
+TEST_1605,Seafood
+TEST_1606,Bread
+TEST_1607,Bread
+TEST_1608,Soup
+TEST_1609,Bread
+TEST_1610,Noodles-Pasta
+TEST_1611,Egg
+TEST_1612,Rice
+TEST_1613,Meat
+TEST_1614,Dairy product
+TEST_1615,Bread
+TEST_1616,Dessert
+TEST_1617,Seafood
+TEST_1618,Vegetable-Fruit
+TEST_1619,Vegetable-Fruit
+TEST_1620,Bread
+TEST_1621,Vegetable-Fruit
+TEST_1622,Fried food
+TEST_1623,Soup
+TEST_1624,Soup
+TEST_1625,Noodles-Pasta
+TEST_1626,Rice
+TEST_1627,Meat
+TEST_1628,Rice
+TEST_1629,Bread
+TEST_1630,Vegetable-Fruit
+TEST_1631,Vegetable-Fruit
+TEST_1632,Noodles-Pasta
+TEST_1633,Dessert
+TEST_1634,Meat
+TEST_1635,Dessert
+TEST_1636,Egg
+TEST_1637,Soup
+TEST_1638,Seafood
+TEST_1639,Egg
+TEST_1640,Vegetable-Fruit
+TEST_1641,Dairy product
+TEST_1642,Dessert
+TEST_1643,Soup
+TEST_1644,Meat
+TEST_1645,Meat
+TEST_1646,Dessert
+TEST_1647,Rice
+TEST_1648,Vegetable-Fruit
+TEST_1649,Vegetable-Fruit
+TEST_1650,Fried food
+TEST_1651,Rice
+TEST_1652,Noodles-Pasta
+TEST_1653,Dairy product
+TEST_1654,Dessert
+TEST_1655,Seafood
+TEST_1656,Dairy product
+TEST_1657,Dairy product
+TEST_1658,Bread
+TEST_1659,Soup
+TEST_1660,Egg
+TEST_1661,Bread
+TEST_1662,Bread
+TEST_1663,Egg
+TEST_1664,Bread
+TEST_1665,Soup
+TEST_1666,Noodles-Pasta
+TEST_1667,Soup
+TEST_1668,Fried food
+TEST_1669,Bread
+TEST_1670,Fried food
+TEST_1671,Meat
+TEST_1672,Rice
+TEST_1673,Dessert
+TEST_1674,Soup
+TEST_1675,Meat
+TEST_1676,Vegetable-Fruit
+TEST_1677,Soup
+TEST_1678,Meat
+TEST_1679,Dessert
+TEST_1680,Fried food
+TEST_1681,Egg
+TEST_1682,Egg
+TEST_1683,Seafood
+TEST_1684,Seafood
+TEST_1685,Soup
+TEST_1686,Meat
+TEST_1687,Vegetable-Fruit
+TEST_1688,Meat
+TEST_1689,Bread
+TEST_1690,Meat
+TEST_1691,Noodles-Pasta
+TEST_1692,Soup
+TEST_1693,Dairy product
+TEST_1694,Egg
+TEST_1695,Fried food
+TEST_1696,Dessert
+TEST_1697,Dairy product
+TEST_1698,Seafood
+TEST_1699,Soup
+TEST_1700,Seafood
+TEST_1701,Seafood
+TEST_1702,Dairy product
+TEST_1703,Dairy product
+TEST_1704,Fried food
+TEST_1705,Dessert
+TEST_1706,Bread
+TEST_1707,Meat
+TEST_1708,Noodles-Pasta
+TEST_1709,Meat
+TEST_1710,Noodles-Pasta
+TEST_1711,Soup
+TEST_1712,Meat
+TEST_1713,Egg
+TEST_1714,Soup
+TEST_1715,Meat
+TEST_1716,Noodles-Pasta
+TEST_1717,Soup
+TEST_1718,Bread
+TEST_1719,Meat
+TEST_1720,Egg
+TEST_1721,Dessert
+TEST_1722,Vegetable-Fruit
+TEST_1723,Vegetable-Fruit
+TEST_1724,Dessert
+TEST_1725,Bread
+TEST_1726,Vegetable-Fruit
+TEST_1727,Seafood
+TEST_1728,Meat
+TEST_1729,Noodles-Pasta
+TEST_1730,Dessert
+TEST_1731,Fried food
+TEST_1732,Fried food
+TEST_1733,Seafood
+TEST_1734,Rice
+TEST_1735,Soup
+TEST_1736,Egg
+TEST_1737,Egg
+TEST_1738,Vegetable-Fruit
+TEST_1739,Egg
+TEST_1740,Vegetable-Fruit
+TEST_1741,Meat
+TEST_1742,Egg
+TEST_1743,Seafood
+TEST_1744,Meat
+TEST_1745,Vegetable-Fruit
+TEST_1746,Bread
+TEST_1747,Seafood
+TEST_1748,Vegetable-Fruit
+TEST_1749,Dessert
+TEST_1750,Meat
+TEST_1751,Meat
+TEST_1752,Dessert
+TEST_1753,Vegetable-Fruit
+TEST_1754,Soup
+TEST_1755,Noodles-Pasta
+TEST_1756,Egg
+TEST_1757,Soup
+TEST_1758,Noodles-Pasta
+TEST_1759,Fried food
+TEST_1760,Meat
+TEST_1761,Meat
+TEST_1762,Seafood
+TEST_1763,Egg
+TEST_1764,Dairy product
+TEST_1765,Meat
+TEST_1766,Meat
+TEST_1767,Soup
+TEST_1768,Vegetable-Fruit
+TEST_1769,Seafood
+TEST_1770,Dessert
+TEST_1771,Fried food
+TEST_1772,Fried food
+TEST_1773,Seafood
+TEST_1774,Fried food
+TEST_1775,Fried food
+TEST_1776,Dessert
+TEST_1777,Seafood
+TEST_1778,Bread
+TEST_1779,Dessert
+TEST_1780,Bread
+TEST_1781,Bread
+TEST_1782,Soup
+TEST_1783,Bread
+TEST_1784,Vegetable-Fruit
+TEST_1785,Soup
+TEST_1786,Egg
+TEST_1787,Egg
+TEST_1788,Dairy product
+TEST_1789,Meat
+TEST_1790,Egg
+TEST_1791,Meat
+TEST_1792,Meat
+TEST_1793,Noodles-Pasta
+TEST_1794,Vegetable-Fruit
+TEST_1795,Soup
+TEST_1796,Meat
+TEST_1797,Soup
+TEST_1798,Meat
+TEST_1799,Meat
+TEST_1800,Egg
+TEST_1801,Meat
+TEST_1802,Vegetable-Fruit
+TEST_1803,Dessert
+TEST_1804,Noodles-Pasta
+TEST_1805,Meat
+TEST_1806,Soup
+TEST_1807,Bread
+TEST_1808,Egg
+TEST_1809,Soup
+TEST_1810,Meat
+TEST_1811,Fried food
+TEST_1812,Soup
+TEST_1813,Egg
+TEST_1814,Seafood
+TEST_1815,Seafood
+TEST_1816,Dessert
+TEST_1817,Seafood
+TEST_1818,Meat
+TEST_1819,Fried food
+TEST_1820,Rice
+TEST_1821,Dairy product
+TEST_1822,Rice
+TEST_1823,Soup
+TEST_1824,Fried food
+TEST_1825,Soup
+TEST_1826,Noodles-Pasta
+TEST_1827,Bread
+TEST_1828,Meat
+TEST_1829,Meat
+TEST_1830,Soup
+TEST_1831,Egg
+TEST_1832,Soup
+TEST_1833,Dessert
+TEST_1834,Seafood
+TEST_1835,Soup
+TEST_1836,Egg
+TEST_1837,Bread
+TEST_1838,Vegetable-Fruit
+TEST_1839,Vegetable-Fruit
+TEST_1840,Dessert
+TEST_1841,Egg
+TEST_1842,Bread
+TEST_1843,Dessert
+TEST_1844,Meat
+TEST_1845,Meat
+TEST_1846,Dessert
+TEST_1847,Noodles-Pasta
+TEST_1848,Dairy product
+TEST_1849,Dairy product
+TEST_1850,Egg
+TEST_1851,Soup
+TEST_1852,Egg
+TEST_1853,Bread
+TEST_1854,Soup
+TEST_1855,Meat
+TEST_1856,Fried food
+TEST_1857,Egg
+TEST_1858,Dessert
+TEST_1859,Vegetable-Fruit
+TEST_1860,Seafood
+TEST_1861,Fried food
+TEST_1862,Bread
+TEST_1863,Seafood
+TEST_1864,Vegetable-Fruit
+TEST_1865,Meat
+TEST_1866,Soup
+TEST_1867,Vegetable-Fruit
+TEST_1868,Bread
+TEST_1869,Seafood
+TEST_1870,Dairy product
+TEST_1871,Soup
+TEST_1872,Bread
+TEST_1873,Egg
+TEST_1874,Vegetable-Fruit
+TEST_1875,Egg
+TEST_1876,Soup
+TEST_1877,Soup
+TEST_1878,Meat
+TEST_1879,Seafood
+TEST_1880,Vegetable-Fruit
+TEST_1881,Noodles-Pasta
+TEST_1882,Dessert
+TEST_1883,Seafood
+TEST_1884,Meat
+TEST_1885,Dessert
+TEST_1886,Seafood
+TEST_1887,Dairy product
+TEST_1888,Vegetable-Fruit
+TEST_1889,Bread
+TEST_1890,Egg
+TEST_1891,Dessert
+TEST_1892,Fried food
+TEST_1893,Meat
+TEST_1894,Vegetable-Fruit
+TEST_1895,Vegetable-Fruit
+TEST_1896,Dessert
+TEST_1897,Meat
+TEST_1898,Meat
+TEST_1899,Meat
+TEST_1900,Meat
+TEST_1901,Soup
+TEST_1902,Bread
+TEST_1903,Soup
+TEST_1904,Rice
+TEST_1905,Fried food
+TEST_1906,Vegetable-Fruit
+TEST_1907,Dessert
+TEST_1908,Bread
+TEST_1909,Soup
+TEST_1910,Egg
+TEST_1911,Egg
+TEST_1912,Bread
+TEST_1913,Bread
+TEST_1914,Soup
+TEST_1915,Bread
+TEST_1916,Rice
+TEST_1917,Soup
+TEST_1918,Dairy product
+TEST_1919,Soup
+TEST_1920,Egg
+TEST_1921,Soup
+TEST_1922,Dairy product
+TEST_1923,Meat
+TEST_1924,Seafood
+TEST_1925,Vegetable-Fruit
+TEST_1926,Seafood
+TEST_1927,Meat
+TEST_1928,Rice
+TEST_1929,Dessert
+TEST_1930,Bread
+TEST_1931,Meat
+TEST_1932,Vegetable-Fruit
+TEST_1933,Meat
+TEST_1934,Egg
+TEST_1935,Soup
+TEST_1936,Meat
+TEST_1937,Dairy product
+TEST_1938,Rice
+TEST_1939,Rice
+TEST_1940,Vegetable-Fruit
+TEST_1941,Soup
+TEST_1942,Bread
+TEST_1943,Meat
+TEST_1944,Meat
+TEST_1945,Dessert
+TEST_1946,Bread
+TEST_1947,Soup
+TEST_1948,Soup
+TEST_1949,Meat
+TEST_1950,Dessert
+TEST_1951,Dessert
+TEST_1952,Egg
+TEST_1953,Vegetable-Fruit
+TEST_1954,Fried food
+TEST_1955,Dessert
+TEST_1956,Soup
+TEST_1957,Soup
+TEST_1958,Bread
+TEST_1959,Vegetable-Fruit
+TEST_1960,Fried food
+TEST_1961,Seafood
+TEST_1962,Bread
+TEST_1963,Bread
+TEST_1964,Meat
+TEST_1965,Meat
+TEST_1966,Meat
+TEST_1967,Seafood
+TEST_1968,Fried food
+TEST_1969,Dairy product
+TEST_1970,Soup
+TEST_1971,Meat
+TEST_1972,Bread
+TEST_1973,Soup
+TEST_1974,Dessert
+TEST_1975,Fried food
+TEST_1976,Soup
+TEST_1977,Dairy product
+TEST_1978,Dessert
+TEST_1979,Fried food
+TEST_1980,Dessert
+TEST_1981,Dessert
+TEST_1982,Noodles-Pasta
+TEST_1983,Soup
+TEST_1984,Vegetable-Fruit
+TEST_1985,Soup
+TEST_1986,Fried food
+TEST_1987,Bread
+TEST_1988,Seafood
+TEST_1989,Egg
+TEST_1990,Vegetable-Fruit
+TEST_1991,Meat
+TEST_1992,Dessert
+TEST_1993,Soup
+TEST_1994,Dessert
+TEST_1995,Seafood
+TEST_1996,Dessert
+TEST_1997,Egg
+TEST_1998,Meat
+TEST_1999,Dessert
+TEST_2000,Seafood
+TEST_2001,Dessert
+TEST_2002,Egg
+TEST_2003,Seafood
+TEST_2004,Dessert
+TEST_2005,Vegetable-Fruit
+TEST_2006,Soup
+TEST_2007,Seafood
+TEST_2008,Meat
+TEST_2009,Egg
+TEST_2010,Rice
+TEST_2011,Meat
+TEST_2012,Soup
+TEST_2013,Soup
+TEST_2014,Dessert
+TEST_2015,Vegetable-Fruit
+TEST_2016,Bread
+TEST_2017,Seafood
+TEST_2018,Egg
+TEST_2019,Noodles-Pasta
+TEST_2020,Rice
+TEST_2021,Meat
+TEST_2022,Seafood
+TEST_2023,Fried food
+TEST_2024,Seafood
+TEST_2025,Dairy product
+TEST_2026,Meat
+TEST_2027,Dessert
+TEST_2028,Meat
+TEST_2029,Egg
+TEST_2030,Dessert
+TEST_2031,Soup
+TEST_2032,Bread
+TEST_2033,Meat
+TEST_2034,Dessert
+TEST_2035,Meat
+TEST_2036,Meat
+TEST_2037,Dessert
+TEST_2038,Noodles-Pasta
+TEST_2039,Noodles-Pasta
+TEST_2040,Fried food
+TEST_2041,Dessert
+TEST_2042,Egg
+TEST_2043,Vegetable-Fruit
+TEST_2044,Soup
+TEST_2045,Meat
+TEST_2046,Dairy product
+TEST_2047,Noodles-Pasta
+TEST_2048,Soup
+TEST_2049,Dessert
+TEST_2050,Bread
+TEST_2051,Vegetable-Fruit
+TEST_2052,Soup
+TEST_2053,Soup
+TEST_2054,Dessert
+TEST_2055,Dairy product
+TEST_2056,Meat
+TEST_2057,Meat
+TEST_2058,Seafood
+TEST_2059,Dessert
+TEST_2060,Bread
+TEST_2061,Meat
+TEST_2062,Vegetable-Fruit
+TEST_2063,Meat
+TEST_2064,Soup
+TEST_2065,Meat
+TEST_2066,Bread
+TEST_2067,Rice
+TEST_2068,Meat
+TEST_2069,Dessert
+TEST_2070,Fried food
+TEST_2071,Egg
+TEST_2072,Egg
+TEST_2073,Bread
+TEST_2074,Soup
+TEST_2075,Soup
+TEST_2076,Noodles-Pasta
+TEST_2077,Meat
+TEST_2078,Fried food
+TEST_2079,Soup
+TEST_2080,Egg
+TEST_2081,Soup
+TEST_2082,Meat
+TEST_2083,Seafood
+TEST_2084,Meat
+TEST_2085,Seafood
+TEST_2086,Fried food
+TEST_2087,Seafood
+TEST_2088,Fried food
+TEST_2089,Bread
+TEST_2090,Seafood
+TEST_2091,Soup
+TEST_2092,Rice
+TEST_2093,Noodles-Pasta
+TEST_2094,Egg
+TEST_2095,Bread
+TEST_2096,Fried food
+TEST_2097,Soup
+TEST_2098,Fried food
+TEST_2099,Rice
+TEST_2100,Soup
+TEST_2101,Meat
+TEST_2102,Soup
+TEST_2103,Dessert
+TEST_2104,Vegetable-Fruit
+TEST_2105,Noodles-Pasta
+TEST_2106,Egg
+TEST_2107,Fried food
+TEST_2108,Fried food
+TEST_2109,Fried food
+TEST_2110,Dairy product
+TEST_2111,Dessert
+TEST_2112,Bread
+TEST_2113,Soup
+TEST_2114,Dessert
+TEST_2115,Bread
+TEST_2116,Soup
+TEST_2117,Meat
+TEST_2118,Dessert
+TEST_2119,Seafood
+TEST_2120,Dessert
+TEST_2121,Soup
+TEST_2122,Bread
+TEST_2123,Fried food
+TEST_2124,Fried food
+TEST_2125,Fried food
+TEST_2126,Soup
+TEST_2127,Soup
+TEST_2128,Soup
+TEST_2129,Meat
+TEST_2130,Meat
+TEST_2131,Seafood
+TEST_2132,Dessert
+TEST_2133,Seafood
+TEST_2134,Bread
+TEST_2135,Seafood
+TEST_2136,Fried food
+TEST_2137,Soup
+TEST_2138,Egg
+TEST_2139,Vegetable-Fruit
+TEST_2140,Soup
+TEST_2141,Bread
+TEST_2142,Seafood
+TEST_2143,Meat
+TEST_2144,Egg
+TEST_2145,Dessert
+TEST_2146,Dessert
+TEST_2147,Bread
+TEST_2148,Meat
+TEST_2149,Meat
+TEST_2150,Soup
+TEST_2151,Bread
+TEST_2152,Dessert
+TEST_2153,Egg
+TEST_2154,Egg
+TEST_2155,Meat
+TEST_2156,Dessert
+TEST_2157,Soup
+TEST_2158,Seafood
+TEST_2159,Dairy product
+TEST_2160,Meat
+TEST_2161,Dessert
+TEST_2162,Meat
+TEST_2163,Meat
+TEST_2164,Soup
+TEST_2165,Seafood
+TEST_2166,Seafood
+TEST_2167,Vegetable-Fruit
+TEST_2168,Bread
+TEST_2169,Dairy product
+TEST_2170,Meat
+TEST_2171,Egg
+TEST_2172,Meat
+TEST_2173,Dessert
+TEST_2174,Dessert
+TEST_2175,Fried food
+TEST_2176,Egg
+TEST_2177,Seafood
+TEST_2178,Vegetable-Fruit
+TEST_2179,Noodles-Pasta
+TEST_2180,Egg
+TEST_2181,Meat
+TEST_2182,Dessert
+TEST_2183,Bread
+TEST_2184,Dessert
+TEST_2185,Bread
+TEST_2186,Fried food
+TEST_2187,Bread
+TEST_2188,Bread
+TEST_2189,Meat
+TEST_2190,Dessert
+TEST_2191,Meat
+TEST_2192,Meat
+TEST_2193,Vegetable-Fruit
+TEST_2194,Soup
+TEST_2195,Meat
+TEST_2196,Egg
+TEST_2197,Soup
+TEST_2198,Dairy product
+TEST_2199,Meat
+TEST_2200,Meat
+TEST_2201,Egg
+TEST_2202,Meat
+TEST_2203,Dessert
+TEST_2204,Seafood
+TEST_2205,Soup
+TEST_2206,Meat
+TEST_2207,Fried food
+TEST_2208,Vegetable-Fruit
+TEST_2209,Dairy product
+TEST_2210,Seafood
+TEST_2211,Meat
+TEST_2212,Egg
+TEST_2213,Egg
+TEST_2214,Meat
+TEST_2215,Meat
+TEST_2216,Rice
+TEST_2217,Egg
+TEST_2218,Fried food
+TEST_2219,Fried food
+TEST_2220,Soup
+TEST_2221,Egg
+TEST_2222,Soup
+TEST_2223,Egg
+TEST_2224,Dessert
+TEST_2225,Dessert
+TEST_2226,Dessert
+TEST_2227,Soup
+TEST_2228,Meat
+TEST_2229,Dessert
+TEST_2230,Egg
+TEST_2231,Dessert
+TEST_2232,Fried food
+TEST_2233,Soup
+TEST_2234,Dairy product
+TEST_2235,Dessert
+TEST_2236,Bread
+TEST_2237,Dessert
+TEST_2238,Meat
+TEST_2239,Seafood
+TEST_2240,Fried food
+TEST_2241,Egg
+TEST_2242,Dairy product
+TEST_2243,Meat
+TEST_2244,Egg
+TEST_2245,Fried food
+TEST_2246,Meat
+TEST_2247,Dessert
+TEST_2248,Noodles-Pasta
+TEST_2249,Dairy product
+TEST_2250,Meat
+TEST_2251,Fried food
+TEST_2252,Bread
+TEST_2253,Meat
+TEST_2254,Egg
+TEST_2255,Meat
+TEST_2256,Dairy product
+TEST_2257,Meat
+TEST_2258,Egg
+TEST_2259,Fried food
+TEST_2260,Bread
+TEST_2261,Egg
+TEST_2262,Fried food
+TEST_2263,Vegetable-Fruit
+TEST_2264,Bread
+TEST_2265,Dessert
+TEST_2266,Noodles-Pasta
+TEST_2267,Soup
+TEST_2268,Meat
+TEST_2269,Meat
+TEST_2270,Bread
+TEST_2271,Dessert
+TEST_2272,Bread
+TEST_2273,Meat
+TEST_2274,Fried food
+TEST_2275,Soup
+TEST_2276,Egg
+TEST_2277,Soup
+TEST_2278,Meat
+TEST_2279,Soup
+TEST_2280,Fried food
+TEST_2281,Bread
+TEST_2282,Dairy product
+TEST_2283,Bread
+TEST_2284,Vegetable-Fruit
+TEST_2285,Meat
+TEST_2286,Noodles-Pasta
+TEST_2287,Vegetable-Fruit
+TEST_2288,Egg
+TEST_2289,Dairy product
+TEST_2290,Meat
+TEST_2291,Egg
+TEST_2292,Soup
+TEST_2293,Soup
+TEST_2294,Bread
+TEST_2295,Fried food
+TEST_2296,Fried food
+TEST_2297,Meat
+TEST_2298,Meat
+TEST_2299,Meat
+TEST_2300,Fried food
+TEST_2301,Dessert
+TEST_2302,Fried food
+TEST_2303,Meat
+TEST_2304,Vegetable-Fruit
+TEST_2305,Soup
+TEST_2306,Soup
+TEST_2307,Meat
+TEST_2308,Noodles-Pasta
+TEST_2309,Soup
+TEST_2310,Seafood
+TEST_2311,Soup
+TEST_2312,Seafood
+TEST_2313,Dessert
+TEST_2314,Noodles-Pasta
+TEST_2315,Meat
+TEST_2316,Rice
+TEST_2317,Bread
+TEST_2318,Vegetable-Fruit
+TEST_2319,Dairy product
+TEST_2320,Rice
+TEST_2321,Seafood
+TEST_2322,Dairy product
+TEST_2323,Seafood
+TEST_2324,Meat
+TEST_2325,Vegetable-Fruit
+TEST_2326,Dessert
+TEST_2327,Egg
+TEST_2328,Seafood
+TEST_2329,Noodles-Pasta
+TEST_2330,Soup
+TEST_2331,Meat
+TEST_2332,Dessert
+TEST_2333,Meat
+TEST_2334,Seafood
+TEST_2335,Egg
+TEST_2336,Egg
+TEST_2337,Bread
+TEST_2338,Egg
+TEST_2339,Soup
+TEST_2340,Vegetable-Fruit
+TEST_2341,Noodles-Pasta
+TEST_2342,Seafood
+TEST_2343,Bread
+TEST_2344,Fried food
+TEST_2345,Fried food
+TEST_2346,Dessert
+TEST_2347,Soup
+TEST_2348,Dairy product
+TEST_2349,Dairy product
+TEST_2350,Dessert
+TEST_2351,Vegetable-Fruit
+TEST_2352,Vegetable-Fruit
+TEST_2353,Soup
+TEST_2354,Fried food
+TEST_2355,Meat
+TEST_2356,Fried food
+TEST_2357,Fried food
+TEST_2358,Soup
+TEST_2359,Meat
+TEST_2360,Fried food
+TEST_2361,Fried food
+TEST_2362,Meat
+TEST_2363,Egg
+TEST_2364,Seafood
+TEST_2365,Fried food
+TEST_2366,Noodles-Pasta
+TEST_2367,Bread
+TEST_2368,Meat
+TEST_2369,Fried food
+TEST_2370,Dessert
+TEST_2371,Bread
+TEST_2372,Soup
+TEST_2373,Egg
+TEST_2374,Dessert
+TEST_2375,Egg
+TEST_2376,Seafood
+TEST_2377,Noodles-Pasta
+TEST_2378,Bread
+TEST_2379,Soup
+TEST_2380,Egg
+TEST_2381,Rice
+TEST_2382,Rice
+TEST_2383,Bread
+TEST_2384,Noodles-Pasta
+TEST_2385,Egg
+TEST_2386,Soup
+TEST_2387,Dessert
+TEST_2388,Noodles-Pasta
+TEST_2389,Dessert
+TEST_2390,Egg
+TEST_2391,Dessert
+TEST_2392,Noodles-Pasta
+TEST_2393,Meat
+TEST_2394,Noodles-Pasta
+TEST_2395,Seafood
+TEST_2396,Seafood
+TEST_2397,Bread
+TEST_2398,Seafood
+TEST_2399,Meat
+TEST_2400,Bread
+TEST_2401,Dessert
+TEST_2402,Bread
+TEST_2403,Soup
+TEST_2404,Dessert
+TEST_2405,Vegetable-Fruit
+TEST_2406,Vegetable-Fruit
+TEST_2407,Vegetable-Fruit
+TEST_2408,Dessert
+TEST_2409,Bread
+TEST_2410,Soup
+TEST_2411,Seafood
+TEST_2412,Dairy product
+TEST_2413,Meat
+TEST_2414,Egg
+TEST_2415,Bread
+TEST_2416,Meat
+TEST_2417,Soup
+TEST_2418,Soup
+TEST_2419,Meat
+TEST_2420,Dairy product
+TEST_2421,Dessert
+TEST_2422,Dessert
+TEST_2423,Fried food
+TEST_2424,Bread
+TEST_2425,Vegetable-Fruit
+TEST_2426,Meat
+TEST_2427,Dairy product
+TEST_2428,Meat
+TEST_2429,Seafood
+TEST_2430,Soup
+TEST_2431,Dessert
+TEST_2432,Soup
+TEST_2433,Dessert
+TEST_2434,Soup
+TEST_2435,Soup
+TEST_2436,Egg
+TEST_2437,Meat
+TEST_2438,Dessert
+TEST_2439,Soup
+TEST_2440,Bread
+TEST_2441,Soup
+TEST_2442,Egg
+TEST_2443,Dairy product
+TEST_2444,Dessert
+TEST_2445,Meat
+TEST_2446,Meat
+TEST_2447,Seafood
+TEST_2448,Meat
+TEST_2449,Vegetable-Fruit
+TEST_2450,Dairy product
+TEST_2451,Rice
+TEST_2452,Rice
+TEST_2453,Bread
+TEST_2454,Bread
+TEST_2455,Soup
+TEST_2456,Vegetable-Fruit
+TEST_2457,Dairy product
+TEST_2458,Soup
+TEST_2459,Bread
+TEST_2460,Dessert
+TEST_2461,Bread
+TEST_2462,Vegetable-Fruit
+TEST_2463,Dessert
+TEST_2464,Dessert
+TEST_2465,Dessert
+TEST_2466,Seafood
+TEST_2467,Soup
+TEST_2468,Dairy product
+TEST_2469,Fried food
+TEST_2470,Fried food
+TEST_2471,Dessert
+TEST_2472,Seafood
+TEST_2473,Noodles-Pasta
+TEST_2474,Seafood
+TEST_2475,Soup
+TEST_2476,Fried food
+TEST_2477,Egg
+TEST_2478,Soup
+TEST_2479,Soup
+TEST_2480,Fried food
+TEST_2481,Egg
+TEST_2482,Vegetable-Fruit
+TEST_2483,Fried food
+TEST_2484,Dairy product
+TEST_2485,Dessert
+TEST_2486,Meat
+TEST_2487,Vegetable-Fruit
+TEST_2488,Soup
+TEST_2489,Soup
+TEST_2490,Egg
+TEST_2491,Soup
+TEST_2492,Soup
+TEST_2493,Fried food
+TEST_2494,Egg
+TEST_2495,Soup
+TEST_2496,Noodles-Pasta
+TEST_2497,Bread
+TEST_2498,Bread
+TEST_2499,Dairy product
+TEST_2500,Egg
+TEST_2501,Fried food
+TEST_2502,Meat
+TEST_2503,Meat
+TEST_2504,Dessert
+TEST_2505,Meat
+TEST_2506,Soup
+TEST_2507,Dessert
+TEST_2508,Dessert
+TEST_2509,Egg
+TEST_2510,Meat
+TEST_2511,Vegetable-Fruit
+TEST_2512,Vegetable-Fruit
+TEST_2513,Vegetable-Fruit
+TEST_2514,Egg
+TEST_2515,Dessert
+TEST_2516,Egg
+TEST_2517,Bread
+TEST_2518,Fried food
+TEST_2519,Soup
+TEST_2520,Fried food
+TEST_2521,Egg
+TEST_2522,Soup
+TEST_2523,Dairy product
+TEST_2524,Vegetable-Fruit
+TEST_2525,Soup
+TEST_2526,Bread
+TEST_2527,Dessert
+TEST_2528,Meat
+TEST_2529,Meat
+TEST_2530,Bread
+TEST_2531,Vegetable-Fruit
+TEST_2532,Seafood
+TEST_2533,Fried food
+TEST_2534,Fried food
+TEST_2535,Soup
+TEST_2536,Dessert
+TEST_2537,Egg
+TEST_2538,Soup
+TEST_2539,Rice
+TEST_2540,Fried food
+TEST_2541,Meat
+TEST_2542,Fried food
+TEST_2543,Dessert
+TEST_2544,Meat
+TEST_2545,Rice
+TEST_2546,Fried food
+TEST_2547,Meat
+TEST_2548,Fried food
+TEST_2549,Dessert
+TEST_2550,Soup
+TEST_2551,Meat
+TEST_2552,Egg
+TEST_2553,Fried food
+TEST_2554,Soup
+TEST_2555,Soup
+TEST_2556,Egg
+TEST_2557,Egg
+TEST_2558,Soup
+TEST_2559,Seafood
+TEST_2560,Dessert
+TEST_2561,Meat
+TEST_2562,Egg
+TEST_2563,Meat
+TEST_2564,Dairy product
+TEST_2565,Soup
+TEST_2566,Bread
+TEST_2567,Dessert
+TEST_2568,Fried food
+TEST_2569,Bread
+TEST_2570,Soup
+TEST_2571,Vegetable-Fruit
+TEST_2572,Noodles-Pasta
+TEST_2573,Seafood
+TEST_2574,Seafood
+TEST_2575,Dairy product
+TEST_2576,Soup
+TEST_2577,Soup
+TEST_2578,Noodles-Pasta
+TEST_2579,Seafood
+TEST_2580,Vegetable-Fruit
+TEST_2581,Seafood
+TEST_2582,Vegetable-Fruit
+TEST_2583,Seafood
+TEST_2584,Meat
+TEST_2585,Egg
+TEST_2586,Bread
+TEST_2587,Dessert
+TEST_2588,Soup
+TEST_2589,Bread
+TEST_2590,Dessert
+TEST_2591,Soup
+TEST_2592,Rice
+TEST_2593,Soup
+TEST_2594,Soup
+TEST_2595,Fried food
+TEST_2596,Seafood
+TEST_2597,Meat
+TEST_2598,Bread
+TEST_2599,Rice
+TEST_2600,Vegetable-Fruit
+TEST_2601,Soup
+TEST_2602,Soup
+TEST_2603,Noodles-Pasta
+TEST_2604,Dairy product
+TEST_2605,Dessert
+TEST_2606,Soup
+TEST_2607,Fried food
+TEST_2608,Soup
+TEST_2609,Meat
+TEST_2610,Dessert
+TEST_2611,Meat
+TEST_2612,Fried food
+TEST_2613,Soup
+TEST_2614,Bread
+TEST_2615,Soup
+TEST_2616,Seafood
+TEST_2617,Dessert
+TEST_2618,Egg
+TEST_2619,Bread
+TEST_2620,Dessert
+TEST_2621,Meat
+TEST_2622,Meat
+TEST_2623,Seafood
+TEST_2624,Soup
+TEST_2625,Vegetable-Fruit
+TEST_2626,Noodles-Pasta
+TEST_2627,Dessert
+TEST_2628,Meat
+TEST_2629,Soup
+TEST_2630,Noodles-Pasta
+TEST_2631,Dessert
+TEST_2632,Meat
+TEST_2633,Seafood
+TEST_2634,Bread
+TEST_2635,Soup
+TEST_2636,Bread
+TEST_2637,Bread
+TEST_2638,Egg
+TEST_2639,Bread
+TEST_2640,Bread
+TEST_2641,Egg
+TEST_2642,Dessert
+TEST_2643,Dairy product
+TEST_2644,Soup
+TEST_2645,Dessert
+TEST_2646,Dessert
+TEST_2647,Dessert
+TEST_2648,Bread
+TEST_2649,Dessert
+TEST_2650,Meat
+TEST_2651,Meat
+TEST_2652,Dessert
+TEST_2653,Dessert
+TEST_2654,Vegetable-Fruit
+TEST_2655,Meat
+TEST_2656,Meat
+TEST_2657,Soup
+TEST_2658,Seafood
+TEST_2659,Rice
+TEST_2660,Egg
+TEST_2661,Seafood
+TEST_2662,Egg
+TEST_2663,Noodles-Pasta
+TEST_2664,Meat
+TEST_2665,Bread
+TEST_2666,Meat
+TEST_2667,Egg
+TEST_2668,Vegetable-Fruit
+TEST_2669,Meat
+TEST_2670,Bread
+TEST_2671,Bread
+TEST_2672,Meat
+TEST_2673,Seafood
+TEST_2674,Fried food
+TEST_2675,Fried food
+TEST_2676,Soup
+TEST_2677,Noodles-Pasta
+TEST_2678,Soup
+TEST_2679,Vegetable-Fruit
+TEST_2680,Fried food
+TEST_2681,Seafood
+TEST_2682,Meat
+TEST_2683,Soup
+TEST_2684,Fried food
+TEST_2685,Egg
+TEST_2686,Bread
+TEST_2687,Soup
+TEST_2688,Egg
+TEST_2689,Soup
+TEST_2690,Bread
+TEST_2691,Fried food
+TEST_2692,Seafood
+TEST_2693,Seafood
+TEST_2694,Meat
+TEST_2695,Fried food
+TEST_2696,Rice
+TEST_2697,Dessert
+TEST_2698,Bread
+TEST_2699,Noodles-Pasta
+TEST_2700,Dessert
+TEST_2701,Bread
+TEST_2702,Soup
+TEST_2703,Bread
+TEST_2704,Dessert
+TEST_2705,Egg
+TEST_2706,Dessert
+TEST_2707,Bread
+TEST_2708,Dairy product
+TEST_2709,Dessert
+TEST_2710,Soup
+TEST_2711,Soup
+TEST_2712,Fried food
+TEST_2713,Bread
+TEST_2714,Soup
+TEST_2715,Fried food
+TEST_2716,Bread
+TEST_2717,Soup
+TEST_2718,Vegetable-Fruit
+TEST_2719,Seafood
+TEST_2720,Soup
+TEST_2721,Seafood
+TEST_2722,Vegetable-Fruit
+TEST_2723,Egg
+TEST_2724,Egg
+TEST_2725,Dessert
+TEST_2726,Egg
+TEST_2727,Meat
+TEST_2728,Dessert
+TEST_2729,Dairy product
+TEST_2730,Noodles-Pasta
+TEST_2731,Fried food
+TEST_2732,Egg
+TEST_2733,Dairy product
+TEST_2734,Soup
+TEST_2735,Dairy product
+TEST_2736,Dessert
+TEST_2737,Seafood
+TEST_2738,Seafood
+TEST_2739,Bread
+TEST_2740,Egg
+TEST_2741,Vegetable-Fruit
+TEST_2742,Seafood
+TEST_2743,Fried food
+TEST_2744,Dessert
+TEST_2745,Egg
+TEST_2746,Soup
+TEST_2747,Meat
+TEST_2748,Dessert
+TEST_2749,Soup
+TEST_2750,Fried food
+TEST_2751,Bread
+TEST_2752,Dairy product
+TEST_2753,Soup
+TEST_2754,Bread
+TEST_2755,Noodles-Pasta
+TEST_2756,Soup
+TEST_2757,Dairy product
+TEST_2758,Soup
+TEST_2759,Noodles-Pasta
+TEST_2760,Fried food
+TEST_2761,Noodles-Pasta
+TEST_2762,Dessert
+TEST_2763,Fried food
+TEST_2764,Fried food
+TEST_2765,Seafood
+TEST_2766,Seafood
+TEST_2767,Dessert
+TEST_2768,Soup
+TEST_2769,Meat
+TEST_2770,Dairy product
+TEST_2771,Fried food
+TEST_2772,Soup
+TEST_2773,Meat
+TEST_2774,Meat
+TEST_2775,Meat
+TEST_2776,Bread
+TEST_2777,Fried food
+TEST_2778,Dessert
+TEST_2779,Egg
+TEST_2780,Meat
+TEST_2781,Dessert
+TEST_2782,Bread
+TEST_2783,Egg
+TEST_2784,Soup
+TEST_2785,Meat
+TEST_2786,Seafood
+TEST_2787,Soup
+TEST_2788,Seafood
+TEST_2789,Soup
+TEST_2790,Fried food
+TEST_2791,Fried food
+TEST_2792,Fried food
+TEST_2793,Meat
+TEST_2794,Meat
+TEST_2795,Meat
+TEST_2796,Meat
+TEST_2797,Meat
+TEST_2798,Seafood
+TEST_2799,Egg
+TEST_2800,Bread
+TEST_2801,Fried food
+TEST_2802,Meat
+TEST_2803,Dairy product
+TEST_2804,Bread
+TEST_2805,Fried food
+TEST_2806,Bread
+TEST_2807,Dessert
+TEST_2808,Fried food
+TEST_2809,Fried food
+TEST_2810,Soup
+TEST_2811,Soup
+TEST_2812,Vegetable-Fruit
+TEST_2813,Dessert
+TEST_2814,Dessert
+TEST_2815,Soup
+TEST_2816,Egg
+TEST_2817,Seafood
+TEST_2818,Meat
+TEST_2819,Soup
+TEST_2820,Vegetable-Fruit
+TEST_2821,Vegetable-Fruit
+TEST_2822,Dessert
+TEST_2823,Soup
+TEST_2824,Soup
+TEST_2825,Soup
+TEST_2826,Fried food
+TEST_2827,Dessert
+TEST_2828,Vegetable-Fruit
+TEST_2829,Soup
+TEST_2830,Meat
+TEST_2831,Bread
+TEST_2832,Bread
+TEST_2833,Egg
+TEST_2834,Bread
+TEST_2835,Egg
+TEST_2836,Soup
+TEST_2837,Soup
+TEST_2838,Dessert
+TEST_2839,Egg
+TEST_2840,Fried food
+TEST_2841,Bread
+TEST_2842,Meat
+TEST_2843,Seafood
+TEST_2844,Vegetable-Fruit
+TEST_2845,Egg
+TEST_2846,Egg
+TEST_2847,Dessert
+TEST_2848,Egg
+TEST_2849,Noodles-Pasta
+TEST_2850,Seafood
+TEST_2851,Fried food
+TEST_2852,Vegetable-Fruit
+TEST_2853,Dessert
+TEST_2854,Dessert
+TEST_2855,Dessert
+TEST_2856,Dessert
+TEST_2857,Soup
+TEST_2858,Soup
+TEST_2859,Egg
+TEST_2860,Bread
+TEST_2861,Fried food
+TEST_2862,Soup
+TEST_2863,Noodles-Pasta
+TEST_2864,Dessert
+TEST_2865,Meat
+TEST_2866,Bread
+TEST_2867,Rice
+TEST_2868,Soup
+TEST_2869,Soup
+TEST_2870,Soup
+TEST_2871,Dairy product
+TEST_2872,Meat
+TEST_2873,Egg
+TEST_2874,Dessert
+TEST_2875,Vegetable-Fruit
+TEST_2876,Egg
+TEST_2877,Egg
+TEST_2878,Seafood
+TEST_2879,Bread
+TEST_2880,Seafood
+TEST_2881,Soup
+TEST_2882,Bread
+TEST_2883,Dessert
+TEST_2884,Bread
+TEST_2885,Dessert
+TEST_2886,Bread
+TEST_2887,Vegetable-Fruit
+TEST_2888,Vegetable-Fruit
+TEST_2889,Dessert
+TEST_2890,Dessert
+TEST_2891,Dairy product
+TEST_2892,Dessert
+TEST_2893,Noodles-Pasta
+TEST_2894,Meat
+TEST_2895,Soup
+TEST_2896,Egg
+TEST_2897,Soup
+TEST_2898,Egg
+TEST_2899,Soup
+TEST_2900,Egg
+TEST_2901,Bread
+TEST_2902,Soup
+TEST_2903,Seafood
+TEST_2904,Meat
+TEST_2905,Vegetable-Fruit
+TEST_2906,Seafood
+TEST_2907,Soup
+TEST_2908,Meat
+TEST_2909,Fried food
+TEST_2910,Meat
+TEST_2911,Meat
+TEST_2912,Dessert
+TEST_2913,Vegetable-Fruit
+TEST_2914,Dessert
+TEST_2915,Egg
+TEST_2916,Dessert
+TEST_2917,Meat
+TEST_2918,Soup
+TEST_2919,Dessert
+TEST_2920,Dessert
+TEST_2921,Soup
+TEST_2922,Fried food
+TEST_2923,Seafood
+TEST_2924,Soup
+TEST_2925,Soup
+TEST_2926,Meat
+TEST_2927,Bread
+TEST_2928,Noodles-Pasta
+TEST_2929,Fried food
+TEST_2930,Egg
+TEST_2931,Dessert
+TEST_2932,Dessert
+TEST_2933,Dessert
+TEST_2934,Vegetable-Fruit
+TEST_2935,Fried food
+TEST_2936,Fried food
+TEST_2937,Soup
+TEST_2938,Fried food
+TEST_2939,Vegetable-Fruit
+TEST_2940,Dessert
+TEST_2941,Rice
+TEST_2942,Vegetable-Fruit
+TEST_2943,Egg
+TEST_2944,Noodles-Pasta
+TEST_2945,Soup
+TEST_2946,Soup
+TEST_2947,Seafood
+TEST_2948,Fried food
+TEST_2949,Egg
+TEST_2950,Bread
+TEST_2951,Vegetable-Fruit
+TEST_2952,Dessert
+TEST_2953,Soup
+TEST_2954,Vegetable-Fruit
+TEST_2955,Meat
+TEST_2956,Bread
+TEST_2957,Dairy product
+TEST_2958,Dessert
+TEST_2959,Dairy product
+TEST_2960,Meat
+TEST_2961,Egg
+TEST_2962,Soup
+TEST_2963,Fried food
+TEST_2964,Noodles-Pasta
+TEST_2965,Bread
+TEST_2966,Soup
+TEST_2967,Dairy product
+TEST_2968,Meat
+TEST_2969,Egg
+TEST_2970,Seafood
+TEST_2971,Seafood
+TEST_2972,Seafood
+TEST_2973,Noodles-Pasta
+TEST_2974,Dessert
+TEST_2975,Bread
+TEST_2976,Egg
+TEST_2977,Meat
+TEST_2978,Seafood
+TEST_2979,Soup
+TEST_2980,Rice
+TEST_2981,Soup
+TEST_2982,Dessert
+TEST_2983,Seafood
+TEST_2984,Fried food
+TEST_2985,Egg
+TEST_2986,Soup
+TEST_2987,Vegetable-Fruit
+TEST_2988,Egg
+TEST_2989,Egg
+TEST_2990,Soup
+TEST_2991,Noodles-Pasta
+TEST_2992,Bread
+TEST_2993,Egg
+TEST_2994,Fried food
+TEST_2995,Bread
+TEST_2996,Seafood
+TEST_2997,Fried food
+TEST_2998,Noodles-Pasta
+TEST_2999,Meat
+TEST_3000,Dessert
+TEST_3001,Egg
+TEST_3002,Meat
+TEST_3003,Dessert
+TEST_3004,Egg
+TEST_3005,Noodles-Pasta
+TEST_3006,Soup
+TEST_3007,Rice
+TEST_3008,Bread
+TEST_3009,Dessert
+TEST_3010,Soup
+TEST_3011,Soup
+TEST_3012,Dessert
+TEST_3013,Dessert
+TEST_3014,Dessert
+TEST_3015,Vegetable-Fruit
+TEST_3016,Fried food
+TEST_3017,Egg
+TEST_3018,Soup
+TEST_3019,Noodles-Pasta
+TEST_3020,Bread
+TEST_3021,Bread
+TEST_3022,Soup
+TEST_3023,Bread
+TEST_3024,Dessert
+TEST_3025,Soup
+TEST_3026,Meat
+TEST_3027,Meat
+TEST_3028,Soup
+TEST_3029,Fried food
+TEST_3030,Dessert
+TEST_3031,Dairy product
+TEST_3032,Soup
+TEST_3033,Meat
+TEST_3034,Rice
+TEST_3035,Soup
+TEST_3036,Noodles-Pasta
+TEST_3037,Seafood
+TEST_3038,Vegetable-Fruit
+TEST_3039,Dessert
+TEST_3040,Dessert
+TEST_3041,Fried food
+TEST_3042,Fried food
+TEST_3043,Vegetable-Fruit
+TEST_3044,Soup
+TEST_3045,Meat
+TEST_3046,Seafood
+TEST_3047,Vegetable-Fruit
+TEST_3048,Egg
+TEST_3049,Fried food
+TEST_3050,Bread
+TEST_3051,Egg
+TEST_3052,Seafood
+TEST_3053,Bread
+TEST_3054,Meat
+TEST_3055,Seafood
+TEST_3056,Dessert
+TEST_3057,Meat
+TEST_3058,Dessert
+TEST_3059,Egg
+TEST_3060,Soup
+TEST_3061,Egg
+TEST_3062,Dessert
+TEST_3063,Meat
+TEST_3064,Dessert
+TEST_3065,Soup
+TEST_3066,Fried food
+TEST_3067,Meat
+TEST_3068,Soup
+TEST_3069,Bread
+TEST_3070,Dessert
+TEST_3071,Dairy product
+TEST_3072,Soup
+TEST_3073,Soup
+TEST_3074,Dessert
+TEST_3075,Vegetable-Fruit
+TEST_3076,Soup
+TEST_3077,Egg
+TEST_3078,Rice
+TEST_3079,Soup
+TEST_3080,Rice
+TEST_3081,Dessert
+TEST_3082,Seafood
+TEST_3083,Seafood
+TEST_3084,Dessert
+TEST_3085,Dessert
+TEST_3086,Fried food
+TEST_3087,Seafood
+TEST_3088,Meat
+TEST_3089,Vegetable-Fruit
+TEST_3090,Bread
+TEST_3091,Soup
+TEST_3092,Meat
+TEST_3093,Vegetable-Fruit
+TEST_3094,Soup
+TEST_3095,Bread
+TEST_3096,Fried food
+TEST_3097,Egg
+TEST_3098,Soup
+TEST_3099,Fried food
+TEST_3100,Seafood
+TEST_3101,Dessert
+TEST_3102,Dessert
+TEST_3103,Meat
+TEST_3104,Dairy product
+TEST_3105,Vegetable-Fruit
+TEST_3106,Bread
+TEST_3107,Egg
+TEST_3108,Dessert
+TEST_3109,Egg
+TEST_3110,Soup
+TEST_3111,Meat
+TEST_3112,Vegetable-Fruit
+TEST_3113,Seafood
+TEST_3114,Egg
+TEST_3115,Soup
+TEST_3116,Vegetable-Fruit
+TEST_3117,Soup
+TEST_3118,Meat
+TEST_3119,Vegetable-Fruit
+TEST_3120,Egg
+TEST_3121,Dessert
+TEST_3122,Egg
+TEST_3123,Egg
+TEST_3124,Soup
+TEST_3125,Dessert
+TEST_3126,Dessert
+TEST_3127,Bread
+TEST_3128,Soup
+TEST_3129,Dairy product
+TEST_3130,Rice
+TEST_3131,Bread
+TEST_3132,Seafood
+TEST_3133,Dairy product
+TEST_3134,Egg
+TEST_3135,Soup
+TEST_3136,Bread
+TEST_3137,Fried food
+TEST_3138,Bread
+TEST_3139,Dessert
+TEST_3140,Soup
+TEST_3141,Dessert
+TEST_3142,Soup
+TEST_3143,Dessert
+TEST_3144,Soup
+TEST_3145,Seafood
+TEST_3146,Dessert
+TEST_3147,Noodles-Pasta
+TEST_3148,Vegetable-Fruit
+TEST_3149,Dessert
+TEST_3150,Soup
+TEST_3151,Bread
+TEST_3152,Dairy product
+TEST_3153,Meat
+TEST_3154,Dessert
+TEST_3155,Dairy product
+TEST_3156,Fried food
+TEST_3157,Fried food
+TEST_3158,Seafood
+TEST_3159,Meat
+TEST_3160,Bread
+TEST_3161,Meat
+TEST_3162,Soup
+TEST_3163,Dairy product
+TEST_3164,Soup
+TEST_3165,Fried food
+TEST_3166,Bread
+TEST_3167,Dessert
+TEST_3168,Meat
+TEST_3169,Dessert
+TEST_3170,Bread
+TEST_3171,Egg
+TEST_3172,Rice
+TEST_3173,Meat
+TEST_3174,Soup
+TEST_3175,Fried food
+TEST_3176,Meat
+TEST_3177,Dessert
+TEST_3178,Seafood
+TEST_3179,Dessert
+TEST_3180,Bread
+TEST_3181,Meat
+TEST_3182,Seafood
+TEST_3183,Egg
+TEST_3184,Seafood
+TEST_3185,Fried food
+TEST_3186,Dessert
+TEST_3187,Seafood
+TEST_3188,Bread
+TEST_3189,Dessert
+TEST_3190,Soup
+TEST_3191,Vegetable-Fruit
+TEST_3192,Bread
+TEST_3193,Dessert
+TEST_3194,Bread
+TEST_3195,Soup
+TEST_3196,Soup
+TEST_3197,Egg
+TEST_3198,Seafood
+TEST_3199,Egg
+TEST_3200,Meat
+TEST_3201,Egg
+TEST_3202,Soup
+TEST_3203,Soup
+TEST_3204,Noodles-Pasta
+TEST_3205,Bread
+TEST_3206,Dessert
+TEST_3207,Bread
+TEST_3208,Dairy product
+TEST_3209,Vegetable-Fruit
+TEST_3210,Seafood
+TEST_3211,Meat
+TEST_3212,Soup
+TEST_3213,Dessert
+TEST_3214,Fried food
+TEST_3215,Meat
+TEST_3216,Rice
+TEST_3217,Meat
+TEST_3218,Meat
+TEST_3219,Fried food
+TEST_3220,Vegetable-Fruit
+TEST_3221,Soup
+TEST_3222,Meat
+TEST_3223,Soup
+TEST_3224,Bread
+TEST_3225,Dairy product
+TEST_3226,Soup
+TEST_3227,Soup
+TEST_3228,Soup
+TEST_3229,Dessert
+TEST_3230,Fried food
+TEST_3231,Vegetable-Fruit
+TEST_3232,Seafood
+TEST_3233,Dessert
+TEST_3234,Egg
+TEST_3235,Seafood
+TEST_3236,Vegetable-Fruit
+TEST_3237,Egg
+TEST_3238,Egg
+TEST_3239,Seafood
+TEST_3240,Meat
+TEST_3241,Seafood
+TEST_3242,Soup
+TEST_3243,Dessert
+TEST_3244,Dessert
+TEST_3245,Dairy product
+TEST_3246,Dessert
+TEST_3247,Vegetable-Fruit
+TEST_3248,Bread
+TEST_3249,Seafood
+TEST_3250,Meat
+TEST_3251,Rice
+TEST_3252,Rice
+TEST_3253,Bread
+TEST_3254,Soup
+TEST_3255,Meat
+TEST_3256,Vegetable-Fruit
+TEST_3257,Fried food
+TEST_3258,Soup
+TEST_3259,Egg
+TEST_3260,Egg
+TEST_3261,Noodles-Pasta
+TEST_3262,Rice
+TEST_3263,Meat
+TEST_3264,Soup
+TEST_3265,Dessert
+TEST_3266,Egg
+TEST_3267,Soup
+TEST_3268,Meat
+TEST_3269,Egg
+TEST_3270,Soup
+TEST_3271,Egg
+TEST_3272,Fried food
+TEST_3273,Seafood
+TEST_3274,Vegetable-Fruit
+TEST_3275,Meat
+TEST_3276,Noodles-Pasta
+TEST_3277,Dessert
+TEST_3278,Meat
+TEST_3279,Fried food
+TEST_3280,Soup
+TEST_3281,Seafood
+TEST_3282,Egg
+TEST_3283,Seafood
+TEST_3284,Egg
+TEST_3285,Dessert
+TEST_3286,Rice
+TEST_3287,Dessert
+TEST_3288,Dessert
+TEST_3289,Dessert
+TEST_3290,Dessert
+TEST_3291,Bread
+TEST_3292,Dessert
+TEST_3293,Soup
+TEST_3294,Egg
+TEST_3295,Dessert
+TEST_3296,Dessert
+TEST_3297,Soup
+TEST_3298,Vegetable-Fruit
+TEST_3299,Noodles-Pasta
+TEST_3300,Soup
+TEST_3301,Meat
+TEST_3302,Soup
+TEST_3303,Noodles-Pasta
+TEST_3304,Vegetable-Fruit
+TEST_3305,Meat
+TEST_3306,Dessert
+TEST_3307,Soup
+TEST_3308,Dessert
+TEST_3309,Seafood
+TEST_3310,Meat
+TEST_3311,Soup
+TEST_3312,Fried food
+TEST_3313,Meat
+TEST_3314,Seafood
+TEST_3315,Soup
+TEST_3316,Meat
+TEST_3317,Dessert
+TEST_3318,Egg
+TEST_3319,Soup
+TEST_3320,Soup
+TEST_3321,Bread
+TEST_3322,Noodles-Pasta
+TEST_3323,Egg
+TEST_3324,Seafood
+TEST_3325,Noodles-Pasta
+TEST_3326,Seafood
+TEST_3327,Dessert
+TEST_3328,Meat
+TEST_3329,Bread
+TEST_3330,Dessert
+TEST_3331,Vegetable-Fruit
+TEST_3332,Dessert
+TEST_3333,Soup
+TEST_3334,Dessert
+TEST_3335,Vegetable-Fruit
+TEST_3336,Soup
+TEST_3337,Egg
+TEST_3338,Bread
+TEST_3339,Fried food
+TEST_3340,Bread
+TEST_3341,Soup
+TEST_3342,Soup
+TEST_3343,Bread
+TEST_3344,Noodles-Pasta
+TEST_3345,Seafood
+TEST_3346,Dessert
